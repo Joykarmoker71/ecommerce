@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<script src="/about/howplayworks/static/trusted.min.js" nonce="vxgW9I7KSG12k5q_YqJX1g"></script>
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-2HG1L2NN9L" nonce="vxgW9I7KSG12k5q_YqJX1g"></script>
+<script nonce="vxgW9I7KSG12k5q_YqJX1g">const analyticsV4Object = { 'event': 'dataLayer_initialized', 'page_name': 'How Google Play Works Homepage', 'experiments': undefined, }; window.dataLayer = window.dataLayer || []; window.dataLayer.push(analyticsV4Object); function gtag(){window.dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-2HG1L2NN9L');</script>
+<script nonce="vxgW9I7KSG12k5q_YqJX1g">window.dataLayer = window.dataLayer || [];</script>
+
+<script nonce="vxgW9I7KSG12k5q_YqJX1g">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-PDTZBX7');</script>
+
+<meta charset="utf-8"/>
+<style>.background-shape {opacity: 0;} .glue-header__bar--mobile, .glue-header__bar--desktop {display: none;}</style>
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+<meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"/>
+<meta content="telephone=no" name="format-detection"/>
+<title>How Google Play Works</title>
+<link href="/about/howplayworks/static/assets/favicons/apple-icon-180x180.png" rel="apple-touch-icon-precomposed" sizes="180x180"/>
+<link href="/about/howplayworks/static/assets/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/about/howplayworks/static/assets/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/about/howplayworks/static/assets/favicons/favicon.ico" rel="shortcut icon"/>
+<meta content="How Google Play Works" name="title"/>
+<meta content="Google Play helps developers succeed in delivering innovative and safe experiences to billions of people around the world." name="description"/>
+<meta content="Google Play, Developers, Trust and Safety, Policy, App Discovery, Google Play billing, Play Store" name="keywords"/>
+<link href="https://play.google.com/about/howplayworks/" rel="canonical"/>
+<meta content="How Google Play Works" property="og:title"/>
+<meta content="Google Play helps developers succeed in delivering innovative and safe experiences to billions of people around the world." property="og:description"/>
+<meta content="/about/howplayworks/static/assets/social/share_google_play_logo.png" property="og:image"/>
+<meta content="https://play.google.com/about/howplayworks/" property="og:url"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="no-referrer" name="referrer">
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700%7CProduct+Sans:400%7CGoogle+Sans:300,400,500,700&amp;display=swap&amp;lang=en" rel="stylesheet" nonce="vxgW9I7KSG12k5q_YqJX1g"/>
+<link as="style" href="/about/howplayworks/static/main.min.css" rel="preload" nonce="vxgW9I7KSG12k5q_YqJX1g"/>
+<link href="/about/howplayworks/static/main.min.css" rel="stylesheet" nonce="vxgW9I7KSG12k5q_YqJX1g"/>
+</meta></head>
+<body itemscope="" itemtype="http://schema.org/Service">
+
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PDTZBX7" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+
+<header class="glue-header glue-header--no-cta header--no-items header__redesign" data-glue-header-options='{"drawer": "true", "hideOnScroll": "false", "steppedNav": "false"}'>
+<div class="glue-header__bar glue-header__bar--mobile header__bar--no-items">
+<div class="glue-header__tier">
+
+<div class="glue-header__container">
+
+<div class="glue-header__lock-up">
+<div class="glue-header__logo header__logo-container">
+
+<div class="glue-header__logo-container">
+<picture>
+<source alt="Google Play Logo" srcset="/about/howplayworks/static/assets/logo/play_logo2x.webp"/>
+<img alt="Google Play Logo" class="glue-header__logo-png header__logo" height="34" src="/about/howplayworks/static/assets/logo/play_logo2x.png" width="159"/>
+</picture>
+<picture>
+<source alt="Google Play Logo" srcset="/about/howplayworks/static/assets/logo/play_logo_light2x.webp"/>
+<img alt="Google Play Logo" aria-hidden="true" class="glue-header__logo-png--light header__logo" height="34" src="/about/howplayworks/static/assets/logo/play_logo_light2x.png" width="159"/>
+</picture>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="glue-header__bar glue-header__bar--desktop glue-header__drawer header__max-width">
+<div class="glue-header__tier">
+<div class="glue-header__container">
+
+<div class="glue-header__lock-up">
+<div class="glue-header__logo header__logo-container">
+
+<div class="glue-header__logo-container">
+<picture>
+<source alt="Google Play Logo" srcset="/about/howplayworks/static/assets/logo/play_logo2x.webp"/>
+<img alt="Google Play Logo" class="glue-header__logo-png header__logo" height="34" src="/about/howplayworks/static/assets/logo/play_logo2x.png" width="159"/>
+</picture>
+<picture>
+<source alt="Google Play Logo" srcset="/about/howplayworks/static/assets/logo/play_logo_light2x.webp"/>
+<img alt="Google Play Logo" aria-hidden="true" class="glue-header__logo-png--light header__logo" height="34" src="/about/howplayworks/static/assets/logo/play_logo_light2x.png" width="159"/>
+</picture>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="glue-header__drawer-backdrop"></div>
+</header>
+<main class="page" id="jump-content">
+<section class="hero-redesign background-shape-redesign" data-track-scrolling="" data-track-visibility="">
+<div class="glue-page">
+<div class="hero-redesign__container glue-grid">
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-xl"></div>
+<div class="hero-redesign__wrapper glue-grid glue-grid__col--span-7-md glue-grid__col--span-5-xl">
+<div class="hero-redesign__left-column glue-grid__col--span-6">
+<h1 class="hero-redesign__heading redesign-headline-1" data-ga4-track-scrolling="" data-heading="How Google Play Works" id="hero">How Google Play works</h1>
+<p class="hero-redesign__body redesign-body-text">Google Play is an online store where people go to find their favorite apps, games, movies, TV shows, books, and more.<p class="hero-redesign__body redesign-body-text">It provides 2 million apps &amp; games to billions of people around the world,  generating over $120 billion in earnings for developers to date.<sup class="is-sup">1</sup></p></p>
+<p class="hero-redesign__scroll-more hero-redesign__scroll-more_desktop">
+<i class="hero-redesign__scroll-more-arrow"></i>
+</p>
+</div>
+</div>
+<div class="hero-redesign__right-column glue-grid glue-grid__col--span-5-md glue-grid__col--span-6-xl">
+<div class="hero-redesign__large-viewport-container glue-grid glue-grid__col--span-4-sm">
+<div class="hero-redesign__image-wrapper glue-grid__col--span-1-sm glue-grid__col--span-1-md glue-grid__col--span-2-xl">
+<figure class="hero-redesign__figure-item">
+<picture class="hero-redesign__image-item glue-grid__col--span-2-sm" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/Yq4xkGonWloNldT1-KiV2JLpeyqBPMg0ssK-BSsAIQvNE9fXI7c0aa4ntULKzz3sgLd7yiZSZg6-EnO485NR4s-KSZ30uc1JC476Ni6Am-V06v7-ZNBX=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/Yq4xkGonWloNldT1-KiV2JLpeyqBPMg0ssK-BSsAIQvNE9fXI7c0aa4ntULKzz3sgLd7yiZSZg6-EnO485NR4s-KSZ30uc1JC476Ni6Am-V06v7-ZNBX=w600-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/Yq4xkGonWloNldT1-KiV2JLpeyqBPMg0ssK-BSsAIQvNE9fXI7c0aa4ntULKzz3sgLd7yiZSZg6-EnO485NR4s-KSZ30uc1JC476Ni6Am-V06v7-ZNBX=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/Yq4xkGonWloNldT1-KiV2JLpeyqBPMg0ssK-BSsAIQvNE9fXI7c0aa4ntULKzz3sgLd7yiZSZg6-EnO485NR4s-KSZ30uc1JC476Ni6Am-V06v7-ZNBX=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/Yq4xkGonWloNldT1-KiV2JLpeyqBPMg0ssK-BSsAIQvNE9fXI7c0aa4ntULKzz3sgLd7yiZSZg6-EnO485NR4s-KSZ30uc1JC476Ni6Am-V06v7-ZNBX=w160-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/Yq4xkGonWloNldT1-KiV2JLpeyqBPMg0ssK-BSsAIQvNE9fXI7c0aa4ntULKzz3sgLd7yiZSZg6-EnO485NR4s-KSZ30uc1JC476Ni6Am-V06v7-ZNBX=w160-e365"/>
+<img alt="" class="hero-redesign__image" height="120" src="https://lh3.googleusercontent.com/Yq4xkGonWloNldT1-KiV2JLpeyqBPMg0ssK-BSsAIQvNE9fXI7c0aa4ntULKzz3sgLd7yiZSZg6-EnO485NR4s-KSZ30uc1JC476Ni6Am-V06v7-ZNBX=w100-e365" width="117"/>
+</picture>
+</figure>
+<figure class="hero-redesign__figure-item">
+<picture class="hero-redesign__image-item glue-grid__col--span-2-sm" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/t_n3Mp63r8oYq547-mPo4etPKNZ5breSeLXWPuMDflUAjKUQF621GrHxencsdzf9DU2KWboYEcdczbemqxCoSndFFVecf6EUJ8Q71lQtWKbbeXIq-A=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/t_n3Mp63r8oYq547-mPo4etPKNZ5breSeLXWPuMDflUAjKUQF621GrHxencsdzf9DU2KWboYEcdczbemqxCoSndFFVecf6EUJ8Q71lQtWKbbeXIq-A=w600-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/t_n3Mp63r8oYq547-mPo4etPKNZ5breSeLXWPuMDflUAjKUQF621GrHxencsdzf9DU2KWboYEcdczbemqxCoSndFFVecf6EUJ8Q71lQtWKbbeXIq-A=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/t_n3Mp63r8oYq547-mPo4etPKNZ5breSeLXWPuMDflUAjKUQF621GrHxencsdzf9DU2KWboYEcdczbemqxCoSndFFVecf6EUJ8Q71lQtWKbbeXIq-A=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/t_n3Mp63r8oYq547-mPo4etPKNZ5breSeLXWPuMDflUAjKUQF621GrHxencsdzf9DU2KWboYEcdczbemqxCoSndFFVecf6EUJ8Q71lQtWKbbeXIq-A=w160-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/t_n3Mp63r8oYq547-mPo4etPKNZ5breSeLXWPuMDflUAjKUQF621GrHxencsdzf9DU2KWboYEcdczbemqxCoSndFFVecf6EUJ8Q71lQtWKbbeXIq-A=w160-e365"/>
+<img alt="" class="hero-redesign__image" height="100" src="https://lh3.googleusercontent.com/t_n3Mp63r8oYq547-mPo4etPKNZ5breSeLXWPuMDflUAjKUQF621GrHxencsdzf9DU2KWboYEcdczbemqxCoSndFFVecf6EUJ8Q71lQtWKbbeXIq-A=w100-e365" width="100"/>
+</picture>
+</figure>
+<p class="hero-redesign__scroll-more hero-redesign__scroll-more_mobile">
+<i class="hero-redesign__scroll-more-arrow"></i>
+</p>
+</div>
+<div class="hero-redesign__image-wrapper glue-grid__col--span-3-sm glue-grid__col--span-4-md">
+<figure class="hero-redesign__figure-item">
+<div class="shape shape--yellow">
+<picture class="hero-redesign__image-item glue-grid__col--span-2-sm" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/yoXErhOts4BWOXV5j4v-1m40sHw6PShkcAOD2YvoCfDNpO1uuD-Fpo2m5suS4TsoUOFFej3k5kg3nsCeHVa0TRqLKSzLSc6CV8y7qpMqeQWd18DUVdba=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/yoXErhOts4BWOXV5j4v-1m40sHw6PShkcAOD2YvoCfDNpO1uuD-Fpo2m5suS4TsoUOFFej3k5kg3nsCeHVa0TRqLKSzLSc6CV8y7qpMqeQWd18DUVdba=w600-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/yoXErhOts4BWOXV5j4v-1m40sHw6PShkcAOD2YvoCfDNpO1uuD-Fpo2m5suS4TsoUOFFej3k5kg3nsCeHVa0TRqLKSzLSc6CV8y7qpMqeQWd18DUVdba=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/yoXErhOts4BWOXV5j4v-1m40sHw6PShkcAOD2YvoCfDNpO1uuD-Fpo2m5suS4TsoUOFFej3k5kg3nsCeHVa0TRqLKSzLSc6CV8y7qpMqeQWd18DUVdba=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/yoXErhOts4BWOXV5j4v-1m40sHw6PShkcAOD2YvoCfDNpO1uuD-Fpo2m5suS4TsoUOFFej3k5kg3nsCeHVa0TRqLKSzLSc6CV8y7qpMqeQWd18DUVdba=w160-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/yoXErhOts4BWOXV5j4v-1m40sHw6PShkcAOD2YvoCfDNpO1uuD-Fpo2m5suS4TsoUOFFej3k5kg3nsCeHVa0TRqLKSzLSc6CV8y7qpMqeQWd18DUVdba=w160-e365"/>
+<img alt="" class="hero-redesign__image" height="348" src="https://lh3.googleusercontent.com/yoXErhOts4BWOXV5j4v-1m40sHw6PShkcAOD2YvoCfDNpO1uuD-Fpo2m5suS4TsoUOFFej3k5kg3nsCeHVa0TRqLKSzLSc6CV8y7qpMqeQWd18DUVdba=w100-e365" width="344"/>
+</picture>
+</div>
+<figcaption class="hero-redesign__figure-caption redesign-figcaption">Mohamed | <span>InovCares</span></figcaption>
+</figure>
+<figure class="hero-redesign__figure-item">
+<picture class="hero-redesign__image-item glue-grid__col--span-2-sm" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/G5qb3s6gXnt1Gz3bp0ZUP_0RlirfOrGqo-xGvUggn1dte7qxA3EB8drWSUo_ZHMDp316qjelYf9KwVQHAHd4NnaPpZ4YpN2sXguZgf4oX0EI0kxbDyA=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/G5qb3s6gXnt1Gz3bp0ZUP_0RlirfOrGqo-xGvUggn1dte7qxA3EB8drWSUo_ZHMDp316qjelYf9KwVQHAHd4NnaPpZ4YpN2sXguZgf4oX0EI0kxbDyA=w600-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/G5qb3s6gXnt1Gz3bp0ZUP_0RlirfOrGqo-xGvUggn1dte7qxA3EB8drWSUo_ZHMDp316qjelYf9KwVQHAHd4NnaPpZ4YpN2sXguZgf4oX0EI0kxbDyA=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/G5qb3s6gXnt1Gz3bp0ZUP_0RlirfOrGqo-xGvUggn1dte7qxA3EB8drWSUo_ZHMDp316qjelYf9KwVQHAHd4NnaPpZ4YpN2sXguZgf4oX0EI0kxbDyA=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/G5qb3s6gXnt1Gz3bp0ZUP_0RlirfOrGqo-xGvUggn1dte7qxA3EB8drWSUo_ZHMDp316qjelYf9KwVQHAHd4NnaPpZ4YpN2sXguZgf4oX0EI0kxbDyA=w160-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/G5qb3s6gXnt1Gz3bp0ZUP_0RlirfOrGqo-xGvUggn1dte7qxA3EB8drWSUo_ZHMDp316qjelYf9KwVQHAHd4NnaPpZ4YpN2sXguZgf4oX0EI0kxbDyA=w160-e365"/>
+<img alt="" class="hero-redesign__image" height="150" src="https://lh3.googleusercontent.com/G5qb3s6gXnt1Gz3bp0ZUP_0RlirfOrGqo-xGvUggn1dte7qxA3EB8drWSUo_ZHMDp316qjelYf9KwVQHAHd4NnaPpZ4YpN2sXguZgf4oX0EI0kxbDyA=w100-e365" width="150"/>
+</picture>
+</figure>
+<figure class="hero-redesign__figure-item">
+<div class="shape shape--red">
+<picture class="hero-redesign__image-item glue-grid__col--span-2-sm" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/hnyKrD5czqkCo1NV_MYxyMbQ3b9_8UFMtNuD0gpwpr_PRYlDeVYxVNmTxDM17-HZ-UYtMBcnkzslyATiGrzC3s01v3ME_BhKSV5LOhGh4JM43BDMJz2l=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/hnyKrD5czqkCo1NV_MYxyMbQ3b9_8UFMtNuD0gpwpr_PRYlDeVYxVNmTxDM17-HZ-UYtMBcnkzslyATiGrzC3s01v3ME_BhKSV5LOhGh4JM43BDMJz2l=w600-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/hnyKrD5czqkCo1NV_MYxyMbQ3b9_8UFMtNuD0gpwpr_PRYlDeVYxVNmTxDM17-HZ-UYtMBcnkzslyATiGrzC3s01v3ME_BhKSV5LOhGh4JM43BDMJz2l=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/hnyKrD5czqkCo1NV_MYxyMbQ3b9_8UFMtNuD0gpwpr_PRYlDeVYxVNmTxDM17-HZ-UYtMBcnkzslyATiGrzC3s01v3ME_BhKSV5LOhGh4JM43BDMJz2l=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/hnyKrD5czqkCo1NV_MYxyMbQ3b9_8UFMtNuD0gpwpr_PRYlDeVYxVNmTxDM17-HZ-UYtMBcnkzslyATiGrzC3s01v3ME_BhKSV5LOhGh4JM43BDMJz2l=w160-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/hnyKrD5czqkCo1NV_MYxyMbQ3b9_8UFMtNuD0gpwpr_PRYlDeVYxVNmTxDM17-HZ-UYtMBcnkzslyATiGrzC3s01v3ME_BhKSV5LOhGh4JM43BDMJz2l=w160-e365"/>
+<img alt="" class="hero-redesign__image" height="256" src="https://lh3.googleusercontent.com/hnyKrD5czqkCo1NV_MYxyMbQ3b9_8UFMtNuD0gpwpr_PRYlDeVYxVNmTxDM17-HZ-UYtMBcnkzslyATiGrzC3s01v3ME_BhKSV5LOhGh4JM43BDMJz2l=w100-e365" width="340"/>
+</picture>
+</div>
+<figcaption class="hero-redesign__figure-caption redesign-figcaption">Monica | <span>Headspace</span></figcaption>
+</figure>
+<figure class="hero-redesign__figure-item">
+<picture class="hero-redesign__image-item glue-grid__col--span-2-sm" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/DmajdJqytOWE7Y8nLGL-ZGJVF9hvPO_nAIzZ0B8f6-oHNyGnDxxJDs5YvIGOkSFV3EJ7HWifElYKpXHQIJhOrnV98FCAGeHIwvk4cwZ-MNWoUcoFIg=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/DmajdJqytOWE7Y8nLGL-ZGJVF9hvPO_nAIzZ0B8f6-oHNyGnDxxJDs5YvIGOkSFV3EJ7HWifElYKpXHQIJhOrnV98FCAGeHIwvk4cwZ-MNWoUcoFIg=w600-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/DmajdJqytOWE7Y8nLGL-ZGJVF9hvPO_nAIzZ0B8f6-oHNyGnDxxJDs5YvIGOkSFV3EJ7HWifElYKpXHQIJhOrnV98FCAGeHIwvk4cwZ-MNWoUcoFIg=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/DmajdJqytOWE7Y8nLGL-ZGJVF9hvPO_nAIzZ0B8f6-oHNyGnDxxJDs5YvIGOkSFV3EJ7HWifElYKpXHQIJhOrnV98FCAGeHIwvk4cwZ-MNWoUcoFIg=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/DmajdJqytOWE7Y8nLGL-ZGJVF9hvPO_nAIzZ0B8f6-oHNyGnDxxJDs5YvIGOkSFV3EJ7HWifElYKpXHQIJhOrnV98FCAGeHIwvk4cwZ-MNWoUcoFIg=w160-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/DmajdJqytOWE7Y8nLGL-ZGJVF9hvPO_nAIzZ0B8f6-oHNyGnDxxJDs5YvIGOkSFV3EJ7HWifElYKpXHQIJhOrnV98FCAGeHIwvk4cwZ-MNWoUcoFIg=w160-e365"/>
+<img alt="" class="hero-redesign__image" height="160" src="https://lh3.googleusercontent.com/DmajdJqytOWE7Y8nLGL-ZGJVF9hvPO_nAIzZ0B8f6-oHNyGnDxxJDs5YvIGOkSFV3EJ7HWifElYKpXHQIJhOrnV98FCAGeHIwvk4cwZ-MNWoUcoFIg=w100-e365" width="160"/>
+</picture>
+</figure>
+<figure class="hero-redesign__figure-item">
+<picture class="hero-redesign__image-item glue-grid__col--span-2-sm" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/r-rG-_5OwV3hZh01QBGhRmXyNDkicj1R_QgoGLXXf70GvAQ3EtRP78E-p_b4nysKNdO0rHRt0l4wlaWIzqUtPo7-FwUjYoK2yDla1eTDhLhL2sUvM00=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/r-rG-_5OwV3hZh01QBGhRmXyNDkicj1R_QgoGLXXf70GvAQ3EtRP78E-p_b4nysKNdO0rHRt0l4wlaWIzqUtPo7-FwUjYoK2yDla1eTDhLhL2sUvM00=w600-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/r-rG-_5OwV3hZh01QBGhRmXyNDkicj1R_QgoGLXXf70GvAQ3EtRP78E-p_b4nysKNdO0rHRt0l4wlaWIzqUtPo7-FwUjYoK2yDla1eTDhLhL2sUvM00=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/r-rG-_5OwV3hZh01QBGhRmXyNDkicj1R_QgoGLXXf70GvAQ3EtRP78E-p_b4nysKNdO0rHRt0l4wlaWIzqUtPo7-FwUjYoK2yDla1eTDhLhL2sUvM00=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/r-rG-_5OwV3hZh01QBGhRmXyNDkicj1R_QgoGLXXf70GvAQ3EtRP78E-p_b4nysKNdO0rHRt0l4wlaWIzqUtPo7-FwUjYoK2yDla1eTDhLhL2sUvM00=w160-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/r-rG-_5OwV3hZh01QBGhRmXyNDkicj1R_QgoGLXXf70GvAQ3EtRP78E-p_b4nysKNdO0rHRt0l4wlaWIzqUtPo7-FwUjYoK2yDla1eTDhLhL2sUvM00=w160-e365"/>
+<img alt="" class="hero-redesign__image" height="121" src="https://lh3.googleusercontent.com/r-rG-_5OwV3hZh01QBGhRmXyNDkicj1R_QgoGLXXf70GvAQ3EtRP78E-p_b4nysKNdO0rHRt0l4wlaWIzqUtPo7-FwUjYoK2yDla1eTDhLhL2sUvM00=w100-e365" width="120"/>
+</picture>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="value-props grid-default glue-page" data-ga4-track-scrolling="" id="value props">
+<div class="glue-grid value-props__mobile">
+<div class="value-props__item glue-grid__col--span-12">
+<picture class="grid-default__img value-props__image non-visible" data-track-visibility="">
+<img alt="" class="lazy-img" height="140" src="https://lh3.googleusercontent.com/p2sOl-30PpYv5Mjbbu1utEvDsKRSabyQ9-HILwMFFccSnJ3A9gP6W_bZFJgwP32_JoxiI8suPgZNClzZ8y_1aNtq_QyEmZxZEf2eFyjjPWTZw66V8gk=w100-e365" width="156"/>
+</picture>
+<h2 class="grid-default__title redesign-headline-3 value-props__title non-visible" data-track-visibility="">Helping developers scale their businesses globally</h2>
+<p class="value-props__paragraph redesign-body-text non-visible" data-track-visibility="">We connect developers to billions of people around the world while investing in the platform, tools, services, and marketing opportunities that support apps and games businesses worldwide.</p>
+</div>
+<div class="value-props__item glue-grid__col--span-12">
+<picture class="grid-default__img value-props__image non-visible" data-track-visibility="">
+<img alt="" class="lazy-img" height="187" src="https://lh3.googleusercontent.com/EJwH7fiAyA5BLwSAl3W8fmrOyHAMDVq3QJ90DgUkhYiVZxL4EYPvKLe-dpvQXeb1ft14W_XmyFgQ6elv3owpoiBZSBFcmoQ2qd5uSZp4gATT3dFsyQ=w100-e365" width="156"/>
+</picture>
+<h2 class="grid-default__title redesign-headline-3 value-props__title non-visible" data-track-visibility="">Safely connecting people with a huge selection of apps and games</h2>
+<p class="value-props__paragraph redesign-body-text non-visible" data-track-visibility="">Google Play makes it easy to discover high-quality apps and games. We help keep consumers safe by building protections into Google Play and requiring developers to follow high safety standards.</p>
+</div>
+<div class="value-props__item glue-grid__col--span-12">
+<picture class="grid-default__img value-props__image non-visible" data-track-visibility="">
+<img alt="" class="lazy-img" height="99" src="https://lh3.googleusercontent.com/ozye3whOqmx-kpC4FbxUkySR2EBGx8aIvsiPdnfMODOHCaFWWgS8Ycr669vMGlwxqIZVkbQYrEPalrsWz7Jax64pIfWTxlvwLQpm-961xP0bpkUl0YA=w100-e365" width="174"/>
+</picture>
+<h2 class="grid-default__title redesign-headline-3 value-props__title non-visible" data-track-visibility="">Enabling consumer choice</h2>
+<p class="value-props__paragraph redesign-body-text non-visible" data-track-visibility="">
+            Google Play helps make it possible for us to offer Android as a free and open operating system. Unlike others in our industry, we don’t charge high operating system license fees. This gives device manufacturers the flexibility to innovate, allowing consumers to choose from more than 24,000 Android device models at prices starting at just $50. <p class="value-props__paragraph redesign-body-text non-visible" data-track-visibility="">And because <a class="redesign-link" href="https://www.android.com/everyone/" rel="noopener" target="_blank">Android is free and open</a>, consumers can choose where they get their apps and games. In fact, more than half of Android devices come with two or more app stores.</p>
+</p>
+</div>
+<div class="value-props__item glue-grid__col--span-12">
+<picture class="grid-default__img value-props__image non-visible" data-track-visibility="">
+<img alt="" class="lazy-img" height="216" src="https://lh3.googleusercontent.com/lw5HlZ_rwv5lMNR1mnfgn39DeICt3Gm0wPrN0mi2f9r6VoKea8JPHfrpVH5tnC831iqhGxCjFlp_49E08G6Nnzllco7brWpUZKn82WKu7f_lVmPRzbg=w100-e365" width="135"/>
+</picture>
+<h2 class="grid-default__title redesign-headline-3 value-props__title non-visible" data-track-visibility="">Succeeding when developers succeed</h2>
+<p class="value-props__paragraph redesign-body-text non-visible" data-track-visibility="">Apps and games developers are the engine of Google Play. We keep costs low for them to support their growth and innovation.</p>
+</div>
+</div>
+<div class="glue-grid value-props__desktop">
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-1-xl"></div>
+<div class="value-props__container glue-grid__col--span-6 glue-grid__col--span-5-lg glue-grid__col--span-5-xl">
+<div class="value-props__item non-visible" data-track-visibility="">
+<picture class="grid-default__img value-props__image non-visible" data-track-visibility="" role="presentation">
+<img alt="" class="lazy-img" height="140" src="https://lh3.googleusercontent.com/p2sOl-30PpYv5Mjbbu1utEvDsKRSabyQ9-HILwMFFccSnJ3A9gP6W_bZFJgwP32_JoxiI8suPgZNClzZ8y_1aNtq_QyEmZxZEf2eFyjjPWTZw66V8gk=w100-e365" width="156"/>
+</picture>
+<h2 class="grid-default__title redesign-headline-3 value-props__title non-visible" data-track-visibility="">Helping developers scale their businesses globally</h2>
+<p class="value-props__paragraph redesign-body-text non-visible" data-track-visibility="">We connect developers to billions of people around the world while investing in the platform, tools, services, and marketing opportunities that support apps and games businesses worldwide.</p>
+</div>
+<div class="value-props__item non-visible" data-track-visibility="">
+<picture class="grid-default__img value-props__image non-visible" data-track-visibility="" role="presentation">
+<img alt="" class="lazy-img" height="99" src="https://lh3.googleusercontent.com/ozye3whOqmx-kpC4FbxUkySR2EBGx8aIvsiPdnfMODOHCaFWWgS8Ycr669vMGlwxqIZVkbQYrEPalrsWz7Jax64pIfWTxlvwLQpm-961xP0bpkUl0YA=w100-e365" width="174"/>
+</picture>
+<h2 class="grid-default__title redesign-headline-3 value-props__title non-visible" data-track-visibility="">Enabling consumer choice</h2>
+<p class="value-props__paragraph redesign-body-text non-visible" data-track-visibility="">
+            Google Play helps make it possible for us to offer Android as a free and open operating system. Unlike others in our industry, we don’t charge high operating system license fees. This gives device manufacturers the flexibility to innovate, allowing consumers to choose from more than 24,000 Android device models at prices starting at just $50. <p class="value-props__paragraph redesign-body-text non-visible" data-track-visibility="">And because <a class="redesign-link" href="https://www.android.com/everyone/" rel="noopener" target="_blank">Android is free and open</a>, consumers can choose where they get their apps and games. In fact, more than half of Android devices come with two or more app stores.</p>
+</p>
+</div>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-1-xl"></div>
+<div class="value-props__container glue-grid__col--span-6 glue-grid__col--span-5-lg glue-grid__col--span-5-xl">
+<div class="value-props__item non-visible" data-track-visibility="">
+<picture class="grid-default__img value-props__image non-visible" data-track-visibility="" role="presentation">
+<img alt="" class="lazy-img" height="187" src="https://lh3.googleusercontent.com/EJwH7fiAyA5BLwSAl3W8fmrOyHAMDVq3QJ90DgUkhYiVZxL4EYPvKLe-dpvQXeb1ft14W_XmyFgQ6elv3owpoiBZSBFcmoQ2qd5uSZp4gATT3dFsyQ=w100-e365" width="156"/>
+</picture>
+<h2 class="grid-default__title redesign-headline-3 value-props__title non-visible" data-track-visibility="">Safely connecting people with a huge selection of apps and games</h2>
+<p class="value-props__paragraph redesign-body-text non-visible" data-track-visibility="">Google Play makes it easy to discover high-quality apps and games. We help keep consumers safe by building protections into Google Play and requiring developers to follow high safety standards.</p>
+</div>
+<div class="value-props__item non-visible" data-track-visibility="">
+<picture class="grid-default__img value-props__image non-visible" data-track-visibility="" role="presentation">
+<img alt="" class="lazy-img" height="216" src="https://lh3.googleusercontent.com/lw5HlZ_rwv5lMNR1mnfgn39DeICt3Gm0wPrN0mi2f9r6VoKea8JPHfrpVH5tnC831iqhGxCjFlp_49E08G6Nnzllco7brWpUZKn82WKu7f_lVmPRzbg=w100-e365" width="135"/>
+</picture>
+<h2 class="grid-default__title redesign-headline-3 value-props__title non-visible" data-track-visibility="">Succeeding when developers succeed</h2>
+<p class="value-props__paragraph redesign-body-text non-visible" data-track-visibility="">Apps and games developers are the engine of Google Play. We keep costs low for them to support their growth and innovation.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="what-developers-say grid-default glue-page" data-ga4-track-scrolling="" data-heading="What developers say" id="what developers say">
+<div class="glue-grid">
+<div class="glue-grid__col--span-0-md glue-grid__col--span-0-lg glue-grid__col--span-1-xl"></div>
+<h2 class="what-developers-say__title glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-7-lg glue-grid__col--span-6-xl">What developers say</h2>
+</div>
+<div class="what-developers-say__modal-container">
+<button aria-label="Watch the video" class="glue-button glue-button--low-emphasis glue-button--icon glue-modal__trigger video-modal__trigger" data-analytics="{'eventLabel': 'android developer story: headspace drive business growth by investing in android app quality - www youtube com/watch?v=bizia69cw2y', 'eventAction': 'video start', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=bIzIa69CW2Y', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'android developer story: headspace drive business growth by investing in android app quality'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=bIzIa69CW2Y', 'link_text': 'Watch the video', 'video_title': 'Android Developer Story: Headspace drive business growth by investing in Android app quality', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-handle-by-js="" data-video-id="bIzIa69CW2Y" tabindex="0">
+<svg alt="" aria-hidden="true" class="play-circle-filled" role="img">
+<use xlink:href="/about/howplayworks/static/assets/glue/icons.svg#play-circle-filled"></use>
+</svg>
+
+      Watch the video
+    </button>
+<div class="glue-video">
+<div class="glue-video__nojs">
+<a aria-label="Watch the video" href="https://www.youtube.com/watch?v=bIzIa69CW2Y">Watch the video</a>
+</div>
+</div>
+<div aria-modal="true" class="glue-modal video-modal" id="video-modal-bIzIa69CW2Y" role="dialog">
+<div class="glue-modal__content-wrapper" data-glue-yt-video-autoplay="true" data-glue-yt-video-height="100%" data-glue-yt-video-width="100%" id="glue-modal-bIzIa69CW2Y" role="complementary" tabindex="0"></div>
+<button aria-label="Close modal" class="glue-modal__close-btn" data-analytics="{'eventLabel': 'android developer story: headspace drive business growth by investing in android app quality', 'eventAction': '', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=bIzIa69CW2Y', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'android developer story: headspace drive business growth by investing in android app quality'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=bIzIa69CW2Y', 'link_text': 'Watch the video', 'video_title': 'Android Developer Story: Headspace drive business growth by investing in Android app quality', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-extra-handle-by-js="" data-handle-by-js="" tabindex="0"></button>
+</div>
+</div>
+<div class="glue-grid">
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg"></div>
+<div class="what-developers-say__first-column glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-5-xl">
+<picture class="what-developers-say__brand-logo">
+<source srcset="https://lh3.googleusercontent.com/Xs26916rhYex-W27A_INEeaLPrY4_a7gDXaQPENCrMln3AyK9ImOvQXw3Ma83rXSCxMoX6HGJUfmPYsVPgMGinKlF-LHUTmnKDiVYDqFhXmJtI7aNTOw=w600-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/Xs26916rhYex-W27A_INEeaLPrY4_a7gDXaQPENCrMln3AyK9ImOvQXw3Ma83rXSCxMoX6HGJUfmPYsVPgMGinKlF-LHUTmnKDiVYDqFhXmJtI7aNTOw=w600-e365"/>
+<img alt="Headspace logo" class="" height="50" src="https://lh3.googleusercontent.com/Xs26916rhYex-W27A_INEeaLPrY4_a7gDXaQPENCrMln3AyK9ImOvQXw3Ma83rXSCxMoX6HGJUfmPYsVPgMGinKlF-LHUTmnKDiVYDqFhXmJtI7aNTOw=w100-e365" width="228"/>
+</picture>
+<h3 class="what-developers-say__brand-title">Headspace’s new high-quality experience drove business growth on Google Play.</h3>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div class="what-developers-say__second-column glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-5-xl">
+<p class="what-developers-say__brand-paragraph">Meditation app Headspace has invested in improving the quality of their Android app by using insights from Google Play Console. This effort has resulted in a new app design with refreshed content and structure, bringing an increase in the number of people using their app regularly and leaving positive feedback.</p>
+</div>
+</div>
+</section>
+<section class="what-developers-say-grid grid-default glue-page">
+<div class="what-developers-say-grid__content glue-grid">
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div class="what-developers-say-grid__item grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img what-developers-say-grid__image" role="presentation">
+<source srcset="https://lh3.googleusercontent.com/5gZmTpRL6kaGsKOl4CREXmD3LbdHAYJ1wPuy-nkqsTWf4_vymL4mZmAAn4hql-Ltp6RN6qHw26W6pZ-pPkfJG1bygyXzcccGF4ZrvLDAXQ_bvAnipyE=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/5gZmTpRL6kaGsKOl4CREXmD3LbdHAYJ1wPuy-nkqsTWf4_vymL4mZmAAn4hql-Ltp6RN6qHw26W6pZ-pPkfJG1bygyXzcccGF4ZrvLDAXQ_bvAnipyE=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/5gZmTpRL6kaGsKOl4CREXmD3LbdHAYJ1wPuy-nkqsTWf4_vymL4mZmAAn4hql-Ltp6RN6qHw26W6pZ-pPkfJG1bygyXzcccGF4ZrvLDAXQ_bvAnipyE=w100-e365" height="538" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="945"/>
+</picture>
+<h3 class="what-developers-say-grid__title">InovCares</h3>
+<p class="what-developers-say-grid__paragraph">InovCares is an Atlanta-based telehealth platform that provides affordable and customized healthcare through their app, empowering doctors to maximize healthy outcomes, particularly for women of color. Using the free-of-charge e-learning courses on Google Play Academy, InovCares’ founder has been able to improve how their app listing looks on Google Play, helping them to reach more patients and doctors.</p>
+<button aria-label="Watch their story" class="glue-button glue-button--low-emphasis glue-button--icon glue-modal__trigger video-modal__trigger" data-analytics="{'eventLabel': 'inovcares grows | google play academy - www youtube com/watch?v=z4pdai jh1c', 'eventAction': 'video start', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=Z4PDai_Jh1c', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'inovcares grows | google play academy'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=z4pdai jh1c', 'link_text': 'Watch their story', 'video_title': 'InovCares Grows | Google Play Academy', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-handle-by-js="" data-video-id="Z4PDai_Jh1c" tabindex="0">Watch their story</button>
+<div class="glue-video">
+<div class="glue-video__nojs">
+<a aria-label="Watch their story" href="https://www.youtube.com/watch?v=Z4PDai_Jh1c">Watch their story</a>
+</div>
+</div>
+<div aria-modal="true" class="glue-modal video-modal" id="video-modal-Z4PDai_Jh1c" role="dialog">
+<div class="glue-modal__content-wrapper" data-glue-yt-video-autoplay="true" data-glue-yt-video-height="100%" data-glue-yt-video-width="100%" id="glue-modal-Z4PDai_Jh1c" role="complementary" tabindex="0"></div>
+<button aria-label="Close modal" class="glue-modal__close-btn" data-analytics="{'eventLabel': 'inovcares grows | google play academy', 'eventAction': '', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=Z4PDai_Jh1c', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'inovcares grows | google play academy'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=z4pdai jh1c', 'link_text': 'Watch their story', 'video_title': 'InovCares Grows | Google Play Academy', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-extra-handle-by-js="" data-handle-by-js="" tabindex="0"></button>
+</div>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div class="what-developers-say-grid__item grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img what-developers-say-grid__image" role="presentation">
+<source srcset="https://lh3.googleusercontent.com/40s99_GUPYlWB4Y10X8eEOE1r5iEhYI9icMIstJUMJYAVaAS7r56tMwDAWtPsMi9R1cev__BCGG9VobCRh8bPBCZ5UIE8qPoi6aDJAebzRLa4UgVtA=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/40s99_GUPYlWB4Y10X8eEOE1r5iEhYI9icMIstJUMJYAVaAS7r56tMwDAWtPsMi9R1cev__BCGG9VobCRh8bPBCZ5UIE8qPoi6aDJAebzRLa4UgVtA=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/40s99_GUPYlWB4Y10X8eEOE1r5iEhYI9icMIstJUMJYAVaAS7r56tMwDAWtPsMi9R1cev__BCGG9VobCRh8bPBCZ5UIE8qPoi6aDJAebzRLa4UgVtA=w100-e365" height="357" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="630"/>
+</picture>
+<h3 class="what-developers-say-grid__title">Udell Enterprises</h3>
+<p class="what-developers-say-grid__paragraph">Sterling Udell and his wife Teresa have always loved to travel and the prospect of doing so full-time was a dream for them. By kitting out their RV to support Sterling’s work as a developer, they’ve been able to realize that dream. Sterling’s apps, TerraTime and Lunescope, are inspired by his love for the outdoors and, using Google Play, he’s able to share his love with people everywhere.</p>
+<button aria-label="Watch their story" class="glue-button glue-button--low-emphasis glue-button--icon glue-modal__trigger video-modal__trigger" data-analytics="{'eventLabel': 'sterling udell nomade de casa rodante terratime pro estados unidos - www youtube com/watch?v= agb76l3jqq', 'eventAction': 'video start', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=_AgB76l3JQQ', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'sterling udell nomade de casa rodante terratime pro estados unidos'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=agb76l3jqq', 'link_text': 'Watch their story', 'video_title': 'Sterling Udell Nomade de casa rodante TerraTime Pro Estados Unidos', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-handle-by-js="" data-video-id="_AgB76l3JQQ" tabindex="0">Watch their story</button>
+<div class="glue-video">
+<div class="glue-video__nojs">
+<a aria-label="Watch their story" href="https://www.youtube.com/watch?v=_AgB76l3JQQ">Watch their story</a>
+</div>
+</div>
+<div aria-modal="true" class="glue-modal video-modal" id="video-modal-_AgB76l3JQQ" role="dialog">
+<div class="glue-modal__content-wrapper" data-glue-yt-video-autoplay="true" data-glue-yt-video-height="100%" data-glue-yt-video-width="100%" id="glue-modal-_AgB76l3JQQ" role="complementary" tabindex="0"></div>
+<button aria-label="Close modal" class="glue-modal__close-btn" data-analytics="{'eventLabel': 'sterling udell nomade de casa rodante terratime pro estados unidos', 'eventAction': '', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=_AgB76l3JQQ', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'sterling udell nomade de casa rodante terratime pro estados unidos'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=agb76l3jqq', 'link_text': 'Watch their story', 'video_title': 'Sterling Udell Nomade de casa rodante TerraTime Pro Estados Unidos', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-extra-handle-by-js="" data-handle-by-js="" tabindex="0"></button>
+</div>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div class="what-developers-say-grid__item grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img what-developers-say-grid__image" role="presentation">
+<source srcset="https://lh3.googleusercontent.com/srKlV-32jkq_Kb2rtOsahTEAmlkj21fHyFs32bMzN--l0uULqpOJ2Ddfrna_7FEmeCK38XJ29a7WWA2C5yPKEYXo50KIRkI2KYgHAskmXfsuz0qs1g=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/srKlV-32jkq_Kb2rtOsahTEAmlkj21fHyFs32bMzN--l0uULqpOJ2Ddfrna_7FEmeCK38XJ29a7WWA2C5yPKEYXo50KIRkI2KYgHAskmXfsuz0qs1g=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/srKlV-32jkq_Kb2rtOsahTEAmlkj21fHyFs32bMzN--l0uULqpOJ2Ddfrna_7FEmeCK38XJ29a7WWA2C5yPKEYXo50KIRkI2KYgHAskmXfsuz0qs1g=w100-e365" height="356" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="630"/>
+</picture>
+<h3 class="what-developers-say-grid__title">Duolingo</h3>
+<p class="what-developers-say-grid__paragraph">Duolingo’s mission is to develop the best education in the world and make it universally available. By enabling distribution of their app to billions of users across the globe and across all socioeconomic levels, Google Play has helped Duolingo reach 500 million downloads and take steps toward their vision of reducing economic inequality through education.</p>
+<button aria-label="Watch their story" class="glue-button glue-button--low-emphasis glue-button--icon glue-modal__trigger video-modal__trigger" data-analytics="{'eventLabel': 'duolingo - using a/b testing to bring free language education to millions of users - www youtube com/watch?v=xax0ccvkw-m', 'eventAction': 'video start', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=xAx0ccvKw-M', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'duolingo - using a/b testing to bring free language education to millions of users'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=xax0ccvkw-m', 'link_text': 'Watch their story', 'video_title': 'Duolingo - Using A/B testing to bring free language education to millions of users', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-handle-by-js="" data-video-id="xAx0ccvKw-M" tabindex="0">Watch their story</button>
+<div class="glue-video">
+<div class="glue-video__nojs">
+<a aria-label="Watch their story" href="https://www.youtube.com/watch?v=xAx0ccvKw-M">Watch their story</a>
+</div>
+</div>
+<div aria-modal="true" class="glue-modal video-modal" id="video-modal-xAx0ccvKw-M" role="dialog">
+<div class="glue-modal__content-wrapper" data-glue-yt-video-autoplay="true" data-glue-yt-video-height="100%" data-glue-yt-video-width="100%" id="glue-modal-xAx0ccvKw-M" role="complementary" tabindex="0"></div>
+<button aria-label="Close modal" class="glue-modal__close-btn" data-analytics="{'eventLabel': 'duolingo - using a/b testing to bring free language education to millions of users', 'eventAction': '', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=xAx0ccvKw-M', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'duolingo - using a/b testing to bring free language education to millions of users'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=xax0ccvkw-m', 'link_text': 'Watch their story', 'video_title': 'Duolingo - Using A/B testing to bring free language education to millions of users', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-extra-handle-by-js="" data-handle-by-js="" tabindex="0"></button>
+</div>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div aria-hidden="true" class="what-developers-say-grid__item what-developers-say-grid__item--hidden grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img what-developers-say-grid__image" role="presentation">
+<source srcset="https://lh3.googleusercontent.com/pHpnWOF9RlVAnCe4Kk5YxuRFnt86r_uIHnDCmh8hceYfZrG9OMAZyJjpPs5tJaFCGQDxnxiK4GUf97IMh32cV9U7IbXPT-OF8vsLPXLcZ5IG9-K_vQ=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/pHpnWOF9RlVAnCe4Kk5YxuRFnt86r_uIHnDCmh8hceYfZrG9OMAZyJjpPs5tJaFCGQDxnxiK4GUf97IMh32cV9U7IbXPT-OF8vsLPXLcZ5IG9-K_vQ=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/pHpnWOF9RlVAnCe4Kk5YxuRFnt86r_uIHnDCmh8hceYfZrG9OMAZyJjpPs5tJaFCGQDxnxiK4GUf97IMh32cV9U7IbXPT-OF8vsLPXLcZ5IG9-K_vQ=w100-e365" height="358" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="630"/>
+</picture>
+<h3 class="what-developers-say-grid__title" tabindex="-1">Seekrtech</h3>
+<p class="what-developers-say-grid__paragraph">Taiwan-based company Seekrtech has used Google Play to reach over 25 million people with their app Forest Stay Focused. The app helps people take a break from their smartphones and focus on other activities, while growing virtual trees. The company then donates money to the Trees for Future organization to plant real trees.</p>
+<button aria-label="Watch their story" class="glue-button glue-button--low-emphasis glue-button--icon glue-modal__trigger video-modal__trigger what-developers-say-grid__button--hidden" data-analytics="{'eventLabel': 'android developer story: seekrtech grows from local to global with google play - www youtube com/watch?v=bqpaywdjd84', 'eventAction': 'video start', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=BQpAYwDjD84', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'android developer story: seekrtech grows from local to global with google play'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=bqpaywdjd84', 'link_text': 'Watch their story', 'video_title': 'Android Developer Story: Seekrtech grows from local to global with Google Play', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-handle-by-js="" data-video-id="BQpAYwDjD84" tabindex="0">Watch their story</button>
+<div class="glue-video">
+<div class="glue-video__nojs">
+<a aria-label="Watch their story" href="https://www.youtube.com/watch?v=BQpAYwDjD84">Watch their story</a>
+</div>
+</div>
+<div aria-modal="true" class="glue-modal video-modal" id="video-modal-BQpAYwDjD84" role="dialog">
+<div class="glue-modal__content-wrapper" data-glue-yt-video-autoplay="true" data-glue-yt-video-height="100%" data-glue-yt-video-width="100%" id="glue-modal-BQpAYwDjD84" role="complementary" tabindex="0"></div>
+<button aria-label="Close modal" class="glue-modal__close-btn" data-analytics="{'eventLabel': 'android developer story: seekrtech grows from local to global with google play', 'eventAction': '', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=BQpAYwDjD84', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'android developer story: seekrtech grows from local to global with google play'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=bqpaywdjd84', 'link_text': 'Watch their story', 'video_title': 'Android Developer Story: Seekrtech grows from local to global with Google Play', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-extra-handle-by-js="" data-handle-by-js="" tabindex="0"></button>
+</div>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div aria-hidden="true" class="what-developers-say-grid__item what-developers-say-grid__item--hidden grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img what-developers-say-grid__image" role="presentation">
+<source srcset="https://lh3.googleusercontent.com/Z5IayY8Z-Eeip5EARVRClFsiE5m1IyJ512XYSgjfOBTPeI0ogApwxIwJQovAkmoiFHXreuUbyfhQP-jmZBzUIZlxO_3NeZZ8olhLaFiVFOwEXA94Rw0Q=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/Z5IayY8Z-Eeip5EARVRClFsiE5m1IyJ512XYSgjfOBTPeI0ogApwxIwJQovAkmoiFHXreuUbyfhQP-jmZBzUIZlxO_3NeZZ8olhLaFiVFOwEXA94Rw0Q=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/Z5IayY8Z-Eeip5EARVRClFsiE5m1IyJ512XYSgjfOBTPeI0ogApwxIwJQovAkmoiFHXreuUbyfhQP-jmZBzUIZlxO_3NeZZ8olhLaFiVFOwEXA94Rw0Q=w100-e365" height="534" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="945"/>
+</picture>
+<h3 class="what-developers-say-grid__title">Ludo King</h3>
+<p class="what-developers-say-grid__paragraph">Gametion Technologies, the developer of Ludo King, is an Indian business who have worked with the Google Play team to learn new design techniques, analytics, and marketing strategies. They’ve reached 600 million downloads worldwide, becoming one of the most played games in India.</p>
+<button aria-label="Watch their story" class="glue-button glue-button--low-emphasis glue-button--icon glue-modal__trigger video-modal__trigger what-developers-say-grid__button--hidden" data-analytics="{'eventLabel': 'android developer story: ludo king goes from local to global - www youtube com/watch?v=gjbakmy6me4', 'eventAction': 'video start', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=gJbaKMy6me4', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'android developer story: ludo king goes from local to global'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=gjbakmy6me4', 'link_text': 'Watch their story', 'video_title': 'Android Developer Story: Ludo King goes from local to global', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-handle-by-js="" data-video-id="gJbaKMy6me4" tabindex="0">Watch their story</button>
+<div class="glue-video">
+<div class="glue-video__nojs">
+<a aria-label="Watch their story" href="https://www.youtube.com/watch?v=gJbaKMy6me4">Watch their story</a>
+</div>
+</div>
+<div aria-modal="true" class="glue-modal video-modal" id="video-modal-gJbaKMy6me4" role="dialog">
+<div class="glue-modal__content-wrapper" data-glue-yt-video-autoplay="true" data-glue-yt-video-height="100%" data-glue-yt-video-width="100%" id="glue-modal-gJbaKMy6me4" role="complementary" tabindex="0"></div>
+<button aria-label="Close modal" class="glue-modal__close-btn" data-analytics="{'eventLabel': 'android developer story: ludo king goes from local to global', 'eventAction': '', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=gJbaKMy6me4', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'android developer story: ludo king goes from local to global'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=gjbakmy6me4', 'link_text': 'Watch their story', 'video_title': 'Android Developer Story: Ludo King goes from local to global', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-extra-handle-by-js="" data-handle-by-js="" tabindex="0"></button>
+</div>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div aria-hidden="true" class="what-developers-say-grid__item what-developers-say-grid__item--hidden grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img what-developers-say-grid__image" role="presentation">
+<source srcset="https://lh3.googleusercontent.com/DLMOhjR8vIkOwqsyRh2yvYGVEefM7C0i7pH4548HAFdA3DT85_VdmEUjtJDgBr3enRWbCofgMDArpsS2f7hpJA3YbmVEP3rW4US2yCyiKZcSAx480Y4=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/DLMOhjR8vIkOwqsyRh2yvYGVEefM7C0i7pH4548HAFdA3DT85_VdmEUjtJDgBr3enRWbCofgMDArpsS2f7hpJA3YbmVEP3rW4US2yCyiKZcSAx480Y4=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/DLMOhjR8vIkOwqsyRh2yvYGVEefM7C0i7pH4548HAFdA3DT85_VdmEUjtJDgBr3enRWbCofgMDArpsS2f7hpJA3YbmVEP3rW4US2yCyiKZcSAx480Y4=w100-e365" height="361" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="630"/>
+</picture>
+<h3 class="what-developers-say-grid__title">Beelinguapp</h3>
+<p class="what-developers-say-grid__paragraph">Language learning app Beelinguapp enables people to read and listen to stories in different languages, side by side. Its founder and CEO, David Montiel, has single-handedly built this successful business on Google Play while traveling the world, thanks to insights he gets from the Google Play Console—which he likens to “having a whole team in his backpack”.</p>
+<button aria-label="Watch their story" class="glue-button glue-button--low-emphasis glue-button--icon glue-modal__trigger video-modal__trigger what-developers-say-grid__button--hidden" data-analytics="{'eventLabel': 'android developer story: beelinguapp finds success with subscriptions - www youtube com/watch?v=dd-nihcgcvq', 'eventAction': 'video start', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=Dd-NiHCgcvQ', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'android developer story: beelinguapp finds success with subscriptions'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=dd-nihcgcvq', 'link_text': 'Watch their story', 'video_title': 'Android Developer Story: Beelinguapp finds success with subscriptions', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-handle-by-js="" data-video-id="Dd-NiHCgcvQ" tabindex="0">Watch their story</button>
+<div class="glue-video">
+<div class="glue-video__nojs">
+<a aria-label="Watch their story" href="https://www.youtube.com/watch?v=Dd-NiHCgcvQ">Watch their story</a>
+</div>
+</div>
+<div aria-modal="true" class="glue-modal video-modal" id="video-modal-Dd-NiHCgcvQ" role="dialog">
+<div class="glue-modal__content-wrapper" data-glue-yt-video-autoplay="true" data-glue-yt-video-height="100%" data-glue-yt-video-width="100%" id="glue-modal-Dd-NiHCgcvQ" role="complementary" tabindex="0"></div>
+<button aria-label="Close modal" class="glue-modal__close-btn" data-analytics="{'eventLabel': 'android developer story: beelinguapp finds success with subscriptions', 'eventAction': '', 'eventCategory': 'video'}" data-analytics-v4="{'section_header': 'Video Modal', 'video_percent': '', 'video_provider': 'youtube', 'video_url': 'www.youtube.com/watch?v=Dd-NiHCgcvQ', 'module_name': 'Video Modal', 'video_duration': '', 'video_current_time': '', 'event': 'video_start', 'video_title': 'android developer story: beelinguapp finds success with subscriptions'}" data-extra-analytics-v4="{'link_url': 'https://www.youtube.com/watch?v=dd-nihcgcvq', 'link_text': 'Watch their story', 'video_title': 'Android Developer Story: Beelinguapp finds success with subscriptions', 'section_header': 'What developers say', 'module_name': 'Video Modal', 'event': 'watch_video_cta_click', 'link_type': 'internal'}" data-extra-handle-by-js="" data-handle-by-js="" tabindex="0"></button>
+</div>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div aria-hidden="true" class="what-developers-say-grid__item what-developers-say-grid__item--hidden grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img what-developers-say-grid__image" role="presentation">
+<source srcset="https://lh3.googleusercontent.com/QjIWIKR3yejD1nR1x2a9r0HnP0JLbOdN_Ix5YcS76IuAZuZG9vf5vzCbruC7nugGFMdaUpZsaY-ejPqUin8V_tEBjlvb1PLUvNyvOpdORVtSrC1lnXk=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/QjIWIKR3yejD1nR1x2a9r0HnP0JLbOdN_Ix5YcS76IuAZuZG9vf5vzCbruC7nugGFMdaUpZsaY-ejPqUin8V_tEBjlvb1PLUvNyvOpdORVtSrC1lnXk=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/QjIWIKR3yejD1nR1x2a9r0HnP0JLbOdN_Ix5YcS76IuAZuZG9vf5vzCbruC7nugGFMdaUpZsaY-ejPqUin8V_tEBjlvb1PLUvNyvOpdORVtSrC1lnXk=w100-e365" height="358" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="630"/>
+</picture>
+<h3 class="what-developers-say-grid__title">Daily Workouts</h3>
+<p class="what-developers-say-grid__paragraph">Daily Workouts was started by Dan Miller, a stay-at-home dad with then new-born twins. He taught himself basic coding and built a simple app, Daily Ab Workout, which people have downloaded over 10 million times. He now has 14 apps in 35 languages on Google Play, reaching users around the world.</p>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div aria-hidden="true" class="what-developers-say-grid__item what-developers-say-grid__item--hidden grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img what-developers-say-grid__image" role="presentation">
+<source srcset="https://lh3.googleusercontent.com/RGdQCekgh-vP6caBgU1JN7Zl7MOjO46Isdtr7SfPo0z_Yfl3gELRwHYe0zJ1oIq0oCpGR_USjpm-2J9sAvijVGXtO-dtSzCrFaSTJs5kAvrtiNivlQL3=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/RGdQCekgh-vP6caBgU1JN7Zl7MOjO46Isdtr7SfPo0z_Yfl3gELRwHYe0zJ1oIq0oCpGR_USjpm-2J9sAvijVGXtO-dtSzCrFaSTJs5kAvrtiNivlQL3=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/RGdQCekgh-vP6caBgU1JN7Zl7MOjO46Isdtr7SfPo0z_Yfl3gELRwHYe0zJ1oIq0oCpGR_USjpm-2J9sAvijVGXtO-dtSzCrFaSTJs5kAvrtiNivlQL3=w100-e365" height="360" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="630"/>
+</picture>
+<h3 class="what-developers-say-grid__title">Big Fish Games</h3>
+<p class="what-developers-say-grid__paragraph">Big Fish Games develops mobile games with an eye towards diversity. Their latest game, EverMerge, which challenges the traditional fairy tale narrative with a strong leading female protagonist and a cast of characters of various ethnicities, ages, genders, and personal styles, has over 10 million downloads on Google Play.</p>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div aria-hidden="true" class="what-developers-say-grid__item what-developers-say-grid__item--hidden grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img what-developers-say-grid__image" role="presentation">
+<source srcset="https://lh3.googleusercontent.com/SqpyA4ZPygTe_ivd9ovKNeC1fiLL8Vuq2QFs3TGXmuUlI3xKdTVwyBDkzclZ-16mltrfgY2QMmfIt-TYjGUDKDghAmL9kJx7h_QgaOasRCdoYAdX6o0=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/SqpyA4ZPygTe_ivd9ovKNeC1fiLL8Vuq2QFs3TGXmuUlI3xKdTVwyBDkzclZ-16mltrfgY2QMmfIt-TYjGUDKDghAmL9kJx7h_QgaOasRCdoYAdX6o0=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/SqpyA4ZPygTe_ivd9ovKNeC1fiLL8Vuq2QFs3TGXmuUlI3xKdTVwyBDkzclZ-16mltrfgY2QMmfIt-TYjGUDKDghAmL9kJx7h_QgaOasRCdoYAdX6o0=w100-e365" height="360" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="630"/>
+</picture>
+<h3 class="what-developers-say-grid__title">Concrete Software</h3>
+<p class="what-developers-say-grid__paragraph">Concrete Software has 8 titles on Google Play, including PBA Bowling Challenge and My Arcade Empire. Across all of their games, they have over 25 million downloads. As part of the Indie Games Accelerator, they’re receiving education and mentorship to help them grow their business.</p>
+</div>
+<div class="glue-grid__col--span-0-md glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+</div>
+<div class="what-developers-say-grid__button-container">
+<button class="what-developers-say-grid__button glue-button glue-button--high-emphasis" data-handle-by-js="" data-load-less-label="Load less" data-load-more-label="Load more">Load more</button>
+</div>
+</section>
+<section class="we-are-play glue-page">
+<div class="we-are-play__container glue-grid">
+<figure class="we-are-play__image we-are-play__image--green">
+<div class="we-are-play__image-wrapper shape shape--green">
+<picture class="">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/2Y1VszNNG80ZZxDhAJU1BjPiW27_9Dx6_CtOv1moFqrlmeqabg3udt4cB252Z-E-964ovZv6gwmdJX730KoYr__yT4PUWmSYpxIttZCyUZTcyxAQ_asz=w1440-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/2Y1VszNNG80ZZxDhAJU1BjPiW27_9Dx6_CtOv1moFqrlmeqabg3udt4cB252Z-E-964ovZv6gwmdJX730KoYr__yT4PUWmSYpxIttZCyUZTcyxAQ_asz=w1440-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/2Y1VszNNG80ZZxDhAJU1BjPiW27_9Dx6_CtOv1moFqrlmeqabg3udt4cB252Z-E-964ovZv6gwmdJX730KoYr__yT4PUWmSYpxIttZCyUZTcyxAQ_asz=w1024-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/2Y1VszNNG80ZZxDhAJU1BjPiW27_9Dx6_CtOv1moFqrlmeqabg3udt4cB252Z-E-964ovZv6gwmdJX730KoYr__yT4PUWmSYpxIttZCyUZTcyxAQ_asz=w1024-e365"/>
+<source srcset="https://lh3.googleusercontent.com/2Y1VszNNG80ZZxDhAJU1BjPiW27_9Dx6_CtOv1moFqrlmeqabg3udt4cB252Z-E-964ovZv6gwmdJX730KoYr__yT4PUWmSYpxIttZCyUZTcyxAQ_asz=w600-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/2Y1VszNNG80ZZxDhAJU1BjPiW27_9Dx6_CtOv1moFqrlmeqabg3udt4cB252Z-E-964ovZv6gwmdJX730KoYr__yT4PUWmSYpxIttZCyUZTcyxAQ_asz=w600-e365"/>
+<img alt="" class="" height="173" role="presentation" src="https://lh3.googleusercontent.com/2Y1VszNNG80ZZxDhAJU1BjPiW27_9Dx6_CtOv1moFqrlmeqabg3udt4cB252Z-E-964ovZv6gwmdJX730KoYr__yT4PUWmSYpxIttZCyUZTcyxAQ_asz=w100-e365" width="173"/>
+</picture>
+</div>
+<figcaption>Nicole</figcaption>
+</figure>
+<figure class="we-are-play__image we-are-play__image--left">
+<div class="we-are-play__image-wrapper">
+<picture class="">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/arjRjjtLtslfb6DbaE-ktzQX1XFMGA-uPyGq9tgVTQIddGWCRXJNBzf7zHDnUX4puDcn6T9TJwS3pD5zem7NwH0MCa8F0oxDdfhcftM989qG8AZoMVs=w1440-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/arjRjjtLtslfb6DbaE-ktzQX1XFMGA-uPyGq9tgVTQIddGWCRXJNBzf7zHDnUX4puDcn6T9TJwS3pD5zem7NwH0MCa8F0oxDdfhcftM989qG8AZoMVs=w1440-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/arjRjjtLtslfb6DbaE-ktzQX1XFMGA-uPyGq9tgVTQIddGWCRXJNBzf7zHDnUX4puDcn6T9TJwS3pD5zem7NwH0MCa8F0oxDdfhcftM989qG8AZoMVs=w1024-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/arjRjjtLtslfb6DbaE-ktzQX1XFMGA-uPyGq9tgVTQIddGWCRXJNBzf7zHDnUX4puDcn6T9TJwS3pD5zem7NwH0MCa8F0oxDdfhcftM989qG8AZoMVs=w1024-e365"/>
+<source srcset="https://lh3.googleusercontent.com/arjRjjtLtslfb6DbaE-ktzQX1XFMGA-uPyGq9tgVTQIddGWCRXJNBzf7zHDnUX4puDcn6T9TJwS3pD5zem7NwH0MCa8F0oxDdfhcftM989qG8AZoMVs=w600-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/arjRjjtLtslfb6DbaE-ktzQX1XFMGA-uPyGq9tgVTQIddGWCRXJNBzf7zHDnUX4puDcn6T9TJwS3pD5zem7NwH0MCa8F0oxDdfhcftM989qG8AZoMVs=w600-e365"/>
+<img alt="" class="" height="115" role="presentation" src="https://lh3.googleusercontent.com/arjRjjtLtslfb6DbaE-ktzQX1XFMGA-uPyGq9tgVTQIddGWCRXJNBzf7zHDnUX4puDcn6T9TJwS3pD5zem7NwH0MCa8F0oxDdfhcftM989qG8AZoMVs=w100-e365" width="114"/>
+</picture>
+</div>
+<figcaption>Daniel</figcaption>
+</figure>
+<figure class="we-are-play__image we-are-play__image--yellow">
+<div class="we-are-play__image-wrapper shape shape--yellow">
+<picture class="">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/eHDwqgHCUGjtoOP0vodiMm-eWHA3oSyfnIWDy0IDYDo8SmvZRGJUc49cYk_G7TsiEoivnztU8yM7zJ0mb7o29VmNHrInEVBWC_4m0p3EZuAKRN-iUg=w1440-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/eHDwqgHCUGjtoOP0vodiMm-eWHA3oSyfnIWDy0IDYDo8SmvZRGJUc49cYk_G7TsiEoivnztU8yM7zJ0mb7o29VmNHrInEVBWC_4m0p3EZuAKRN-iUg=w1440-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/eHDwqgHCUGjtoOP0vodiMm-eWHA3oSyfnIWDy0IDYDo8SmvZRGJUc49cYk_G7TsiEoivnztU8yM7zJ0mb7o29VmNHrInEVBWC_4m0p3EZuAKRN-iUg=w1024-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/eHDwqgHCUGjtoOP0vodiMm-eWHA3oSyfnIWDy0IDYDo8SmvZRGJUc49cYk_G7TsiEoivnztU8yM7zJ0mb7o29VmNHrInEVBWC_4m0p3EZuAKRN-iUg=w1024-e365"/>
+<source srcset="https://lh3.googleusercontent.com/eHDwqgHCUGjtoOP0vodiMm-eWHA3oSyfnIWDy0IDYDo8SmvZRGJUc49cYk_G7TsiEoivnztU8yM7zJ0mb7o29VmNHrInEVBWC_4m0p3EZuAKRN-iUg=w600-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/eHDwqgHCUGjtoOP0vodiMm-eWHA3oSyfnIWDy0IDYDo8SmvZRGJUc49cYk_G7TsiEoivnztU8yM7zJ0mb7o29VmNHrInEVBWC_4m0p3EZuAKRN-iUg=w600-e365"/>
+<img alt="" class="" height="167" role="presentation" src="https://lh3.googleusercontent.com/eHDwqgHCUGjtoOP0vodiMm-eWHA3oSyfnIWDy0IDYDo8SmvZRGJUc49cYk_G7TsiEoivnztU8yM7zJ0mb7o29VmNHrInEVBWC_4m0p3EZuAKRN-iUg=w100-e365" width="167"/>
+</picture>
+</div>
+<figcaption>Simone</figcaption>
+</figure>
+<figure class="we-are-play__image we-are-play__image--red">
+<div class="we-are-play__image-wrapper shape shape--red">
+<picture class="">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/MDjV919ye6NKFC4VsDsEMOMBYbX3cgKjoJ3lX3SHqfaBciTvGb_2_RF_Owv68k6EL1mni5iaqB2ey7T4mFrvFFO-u1b1hou0e7U8dn9RhSLxPHXNohE=w1440-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/MDjV919ye6NKFC4VsDsEMOMBYbX3cgKjoJ3lX3SHqfaBciTvGb_2_RF_Owv68k6EL1mni5iaqB2ey7T4mFrvFFO-u1b1hou0e7U8dn9RhSLxPHXNohE=w1440-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/MDjV919ye6NKFC4VsDsEMOMBYbX3cgKjoJ3lX3SHqfaBciTvGb_2_RF_Owv68k6EL1mni5iaqB2ey7T4mFrvFFO-u1b1hou0e7U8dn9RhSLxPHXNohE=w1024-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/MDjV919ye6NKFC4VsDsEMOMBYbX3cgKjoJ3lX3SHqfaBciTvGb_2_RF_Owv68k6EL1mni5iaqB2ey7T4mFrvFFO-u1b1hou0e7U8dn9RhSLxPHXNohE=w1024-e365"/>
+<source srcset="https://lh3.googleusercontent.com/MDjV919ye6NKFC4VsDsEMOMBYbX3cgKjoJ3lX3SHqfaBciTvGb_2_RF_Owv68k6EL1mni5iaqB2ey7T4mFrvFFO-u1b1hou0e7U8dn9RhSLxPHXNohE=w600-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/MDjV919ye6NKFC4VsDsEMOMBYbX3cgKjoJ3lX3SHqfaBciTvGb_2_RF_Owv68k6EL1mni5iaqB2ey7T4mFrvFFO-u1b1hou0e7U8dn9RhSLxPHXNohE=w600-e365"/>
+<img alt="" class="" height="151" role="presentation" src="https://lh3.googleusercontent.com/MDjV919ye6NKFC4VsDsEMOMBYbX3cgKjoJ3lX3SHqfaBciTvGb_2_RF_Owv68k6EL1mni5iaqB2ey7T4mFrvFFO-u1b1hou0e7U8dn9RhSLxPHXNohE=w100-e365" width="150"/>
+</picture>
+</div>
+<figcaption>BáiYù</figcaption>
+</figure>
+<figure class="we-are-play__image we-are-play__image--blue">
+<div class="we-are-play__image-wrapper shape shape--blue">
+<picture class="">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/Zr41NF_tb7N2puIwwuzdn7WG5wDrFMzr4J9v6Iv8XpUq1eO-GbIOlG5p2fF3i3g80zv-5iQ8apw2ogT9kYZt6NfOskiw2ZoF29-iYWdhb4UGhsXDjQ=w1440-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/Zr41NF_tb7N2puIwwuzdn7WG5wDrFMzr4J9v6Iv8XpUq1eO-GbIOlG5p2fF3i3g80zv-5iQ8apw2ogT9kYZt6NfOskiw2ZoF29-iYWdhb4UGhsXDjQ=w1440-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/Zr41NF_tb7N2puIwwuzdn7WG5wDrFMzr4J9v6Iv8XpUq1eO-GbIOlG5p2fF3i3g80zv-5iQ8apw2ogT9kYZt6NfOskiw2ZoF29-iYWdhb4UGhsXDjQ=w1024-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/Zr41NF_tb7N2puIwwuzdn7WG5wDrFMzr4J9v6Iv8XpUq1eO-GbIOlG5p2fF3i3g80zv-5iQ8apw2ogT9kYZt6NfOskiw2ZoF29-iYWdhb4UGhsXDjQ=w1024-e365"/>
+<source srcset="https://lh3.googleusercontent.com/Zr41NF_tb7N2puIwwuzdn7WG5wDrFMzr4J9v6Iv8XpUq1eO-GbIOlG5p2fF3i3g80zv-5iQ8apw2ogT9kYZt6NfOskiw2ZoF29-iYWdhb4UGhsXDjQ=w600-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/Zr41NF_tb7N2puIwwuzdn7WG5wDrFMzr4J9v6Iv8XpUq1eO-GbIOlG5p2fF3i3g80zv-5iQ8apw2ogT9kYZt6NfOskiw2ZoF29-iYWdhb4UGhsXDjQ=w600-e365"/>
+<img alt="" class="" height="188" role="presentation" src="https://lh3.googleusercontent.com/Zr41NF_tb7N2puIwwuzdn7WG5wDrFMzr4J9v6Iv8XpUq1eO-GbIOlG5p2fF3i3g80zv-5iQ8apw2ogT9kYZt6NfOskiw2ZoF29-iYWdhb4UGhsXDjQ=w100-e365" width="188"/>
+</picture>
+</div>
+<figcaption>Tanya</figcaption>
+</figure>
+<figure class="we-are-play__image we-are-play__image--right">
+<div class="we-are-play__image-wrapper">
+<picture class="">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/iZw2gRrJ_LORHbh4Ha8lT0rgYY6ELp5mW1B4BXUo3qpieSoIrI7poix0QhjKZxVP_ezbicKJHR2RWVoHn3K9S8US9yyRQceh_FFhJ1KprhShh7xci754=w1440-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/iZw2gRrJ_LORHbh4Ha8lT0rgYY6ELp5mW1B4BXUo3qpieSoIrI7poix0QhjKZxVP_ezbicKJHR2RWVoHn3K9S8US9yyRQceh_FFhJ1KprhShh7xci754=w1440-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/iZw2gRrJ_LORHbh4Ha8lT0rgYY6ELp5mW1B4BXUo3qpieSoIrI7poix0QhjKZxVP_ezbicKJHR2RWVoHn3K9S8US9yyRQceh_FFhJ1KprhShh7xci754=w1024-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/iZw2gRrJ_LORHbh4Ha8lT0rgYY6ELp5mW1B4BXUo3qpieSoIrI7poix0QhjKZxVP_ezbicKJHR2RWVoHn3K9S8US9yyRQceh_FFhJ1KprhShh7xci754=w1024-e365"/>
+<source srcset="https://lh3.googleusercontent.com/iZw2gRrJ_LORHbh4Ha8lT0rgYY6ELp5mW1B4BXUo3qpieSoIrI7poix0QhjKZxVP_ezbicKJHR2RWVoHn3K9S8US9yyRQceh_FFhJ1KprhShh7xci754=w600-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/iZw2gRrJ_LORHbh4Ha8lT0rgYY6ELp5mW1B4BXUo3qpieSoIrI7poix0QhjKZxVP_ezbicKJHR2RWVoHn3K9S8US9yyRQceh_FFhJ1KprhShh7xci754=w600-e365"/>
+<img alt="" class="" height="115" role="presentation" src="https://lh3.googleusercontent.com/iZw2gRrJ_LORHbh4Ha8lT0rgYY6ELp5mW1B4BXUo3qpieSoIrI7poix0QhjKZxVP_ezbicKJHR2RWVoHn3K9S8US9yyRQceh_FFhJ1KprhShh7xci754=w100-e365" width="114"/>
+</picture>
+</div>
+<figcaption>Jenna</figcaption>
+</figure>
+<div class="glue-grid__col--span-0-sm glue-grid__col--span-3-md glue-grid__col--span-2-lg glue-grid__col--span-3-xl"></div>
+<div class="we-are-play__content glue-grid__col--span-4-sm glue-grid__col--span-6-md glue-grid__col--span-8-lg glue-grid__col--span-6-xl glue-grid__col--align-middle">
+<h2 class="we-are-play__content-title" data-ga4-track-scrolling="" data-heading="#WeArePlay" id="we are play">#WeArePlay</h2>
+<p class="we-are-play__content-description redesign-body-text">Discover the stories of people from all over the United States building apps and games businesses on Google Play.</p>
+<a aria-label="Learn more" class="glue-button glue-button--high-emphasis" data-analytics="{'eventLabel': 'learn more - https://play google com/console/about/weareplay-us/', 'eventAction': 'cta click', 'eventCategory': 'global'}" data-analytics-v4="{'link_url': 'https://play.google.com/console/about/weareplay-us/', 'link_text': 'Learn more', 'section_header': 'We are play', 'module_name': 'We are play', 'event': 'cta_click', 'link_type': 'external'}" href="https://play.google.com/console/about/weareplay-us/" rel="noopener" target="_blank">Learn more</a>
+</div>
+</div>
+</section>
+<section class="statistics">
+<div class="glue-page glue-grid">
+<div class="glue-grid__col glue-grid__col--span-0 glue-grid__col--span-1-xl"></div>
+<div class="glue-grid__col glue-grid__col--span-6 glue-grid__col glue-grid__col--span-5-xl">
+<h2 class="redesign-headline-2 statistics__title non-visible" data-ga4-track-scrolling="" data-heading="Google Play: A platform with extensive reach" data-track-visibility="" id="statistics">Google Play: A platform with extensive reach</h2>
+<div class="statistics__card statistics__card--1 non-visible" data-track-visibility="">
+<h3 class="statistics__card__text"><span class="statistics__card__title statistics__card__title--green">2.5+ billion</span> active users on Google Play each month<sup class="is-sup">3</sup></h3>
+</div>
+</div>
+<div class="glue-grid__col glue-grid__col--span-0 glue-grid__col--span-1-lg glue-grid__col--span-0-xl"></div>
+<div class="glue-grid__col glue-grid__col--span-6 glue-grid__col--span-5-lg glue-grid__col--span-5-xl statistics__grid">
+<div class="statistics__card statistics__card--2 non-visible" data-track-visibility="">
+<h3 class="statistics__card__text"><span class="statistics__card__title statistics__card__title--green">140+ billion</span> downloads on Google Play in the last year<sup class="is-sup">2</sup></h3>
+</div>
+<div class="statistics__card statistics__card--3 non-visible" data-track-visibility="">
+<h3 class="statistics__card__text"><span class="statistics__card__title statistics__card__title--green">190+</span> countries where Google Play is available<sup class="is-sup">2</sup></h3>
+</div>
+</div>
+</div>
+</section>
+<section class="carousel__wrapper background-shape-redesign">
+<div class="glue-page glue-grid carousel__heading">
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-xl"></div>
+<h2 class="glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-6-lg glue-grid__col--span-4-xl carousel__heading__title" data-ga4-track-scrolling="" data-heading="Why developers choose Google Play" id="carousel">
+      Why developers choose <span class="carousel__heading__title--no-wrap">Google Play</span>
+</h2>
+<div class="glue-grid__col--span-1-md glue-grid__col--span-1-lg glue-grid__col--span-1-xl"></div>
+<p class="glue-grid__col glue-grid__col--span-4 glue-grid__col--span-4-md glue-grid__col--span-5-lg glue-grid__col--span-4-xl carousel__heading__body">Google Play is one of many ways to distribute apps and games on Android to people around the world.</p>
+<div class="glue-grid__col--span-1-md glue-grid__col--span-0-lg glue-grid__col--span-1-xl"></div>
+</div>
+<div class="glue-page glue-carousel carousel" data-glue-pagination="carousel-simple" data-title-element="carousel__heading__title">
+<div class="glue-carousel__wrap">
+<div class="glue-carousel__list">
+<div class="glue-carousel__item glue-grid carousel__slide carousel-distribution-and-discovery" role="tabpanel">
+<div class="glue-grid__col--span-0-sm glue-grid__col--span-1-md glue-grid__col--span-1-lg"></div>
+<div class="glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-6-lg glue-grid__col--span-5-xl carousel__slide__column">
+<h3 class="carousel__slide__column__title" data-analytics-label="">Distribution and discovery</h3>
+<p class="carousel__slide__column__text">
+                We make it easy for developers to distribute their apps and games to billions of users and earn money from people around the world. We also provide promotional opportunities and programs to help developers reach, retain, and re-engage users, such as <a class="redesign-dark-background-link" href="https://play.google.com/console/about/googleplaypass/" target="_blank">Play Pass</a> and <a class="redesign-dark-background-link" href="https://play.google.com/console/about/googleplaypoints/" target="_blank">Play Points</a>.
+              </p>
+</div>
+<div class="glue-grid__col glue-grid__col--span-4 glue-grid__col--span-4-md glue-grid__col--span-4-lg glue-grid__col--span-5-xl glue-grid__col--align-middle carousel__slide__img">
+<figure class="carousel__slide__figure">
+<div class="shape shape--yellow">
+<picture class="" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/SV-NzMz_x5vDsspR27ls9GC6eif-VTBqa7ZOomH_dSWMzQApAuNBbIG_R7XVxMWYTt2ZC24FxLnjK5FuSAlvvmcMqrpKJLNYPl2UMipu3yu4KnhdCHg=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/SV-NzMz_x5vDsspR27ls9GC6eif-VTBqa7ZOomH_dSWMzQApAuNBbIG_R7XVxMWYTt2ZC24FxLnjK5FuSAlvvmcMqrpKJLNYPl2UMipu3yu4KnhdCHg=w600-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/SV-NzMz_x5vDsspR27ls9GC6eif-VTBqa7ZOomH_dSWMzQApAuNBbIG_R7XVxMWYTt2ZC24FxLnjK5FuSAlvvmcMqrpKJLNYPl2UMipu3yu4KnhdCHg=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/SV-NzMz_x5vDsspR27ls9GC6eif-VTBqa7ZOomH_dSWMzQApAuNBbIG_R7XVxMWYTt2ZC24FxLnjK5FuSAlvvmcMqrpKJLNYPl2UMipu3yu4KnhdCHg=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/SV-NzMz_x5vDsspR27ls9GC6eif-VTBqa7ZOomH_dSWMzQApAuNBbIG_R7XVxMWYTt2ZC24FxLnjK5FuSAlvvmcMqrpKJLNYPl2UMipu3yu4KnhdCHg=w304-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/SV-NzMz_x5vDsspR27ls9GC6eif-VTBqa7ZOomH_dSWMzQApAuNBbIG_R7XVxMWYTt2ZC24FxLnjK5FuSAlvvmcMqrpKJLNYPl2UMipu3yu4KnhdCHg=w304-e365"/>
+<img alt="" class="carousel__slide__figure__image" height="502" src="https://lh3.googleusercontent.com/SV-NzMz_x5vDsspR27ls9GC6eif-VTBqa7ZOomH_dSWMzQApAuNBbIG_R7XVxMWYTt2ZC24FxLnjK5FuSAlvvmcMqrpKJLNYPl2UMipu3yu4KnhdCHg=w100-e365" width="501"/>
+</picture>
+</div>
+<figcaption class="carousel__slide__figure__figcaption">Frank | <b>Seekrtech</b>
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="glue-carousel__item glue-grid carousel__slide carousel-monetization-opportunities" role="tabpanel">
+<div class="glue-grid__col--span-0-sm glue-grid__col--span-1-md glue-grid__col--span-1-lg"></div>
+<div class="glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-6-lg glue-grid__col--span-5-xl carousel__slide__column">
+<h3 class="carousel__slide__column__title" data-analytics-label="">Monetization opportunities</h3>
+<p class="carousel__slide__column__text">
+                Developers can <a class="redesign-dark-background-link" data-analytics-label="monetize" href="https://play.google.com/console/about/monetize/" target="_blank">monetize</a> their apps and games by offering in-app purchases, subscriptions, or paid apps. Consumers can safely pay for digital content on Google Play in their preferred forms of payment, and Google Play handles everything from receipts to subscription management to notifications.
+              </p>
+</div>
+<div class="glue-grid__col glue-grid__col--span-4 glue-grid__col--span-4-md glue-grid__col--span-4-lg glue-grid__col--span-5-xl glue-grid__col--align-middle carousel__slide__img">
+<figure class="carousel__slide__figure">
+<div class="shape shape--blue">
+<picture class="" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/nehgd1snj53vX85a24ZCfXhc34NUu5lvGW_NKMR0L3qOIyOr9Tk1tTUGjTEG949mdCnQ1VELCBVaEP6IN5t-hKXTVwU-FnoOV6UH6rKa-ev_kKJMy6U=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/nehgd1snj53vX85a24ZCfXhc34NUu5lvGW_NKMR0L3qOIyOr9Tk1tTUGjTEG949mdCnQ1VELCBVaEP6IN5t-hKXTVwU-FnoOV6UH6rKa-ev_kKJMy6U=w600-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/nehgd1snj53vX85a24ZCfXhc34NUu5lvGW_NKMR0L3qOIyOr9Tk1tTUGjTEG949mdCnQ1VELCBVaEP6IN5t-hKXTVwU-FnoOV6UH6rKa-ev_kKJMy6U=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/nehgd1snj53vX85a24ZCfXhc34NUu5lvGW_NKMR0L3qOIyOr9Tk1tTUGjTEG949mdCnQ1VELCBVaEP6IN5t-hKXTVwU-FnoOV6UH6rKa-ev_kKJMy6U=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/nehgd1snj53vX85a24ZCfXhc34NUu5lvGW_NKMR0L3qOIyOr9Tk1tTUGjTEG949mdCnQ1VELCBVaEP6IN5t-hKXTVwU-FnoOV6UH6rKa-ev_kKJMy6U=w304-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/nehgd1snj53vX85a24ZCfXhc34NUu5lvGW_NKMR0L3qOIyOr9Tk1tTUGjTEG949mdCnQ1VELCBVaEP6IN5t-hKXTVwU-FnoOV6UH6rKa-ev_kKJMy6U=w304-e365"/>
+<img alt="" class="carousel__slide__figure__image" height="502" src="https://lh3.googleusercontent.com/nehgd1snj53vX85a24ZCfXhc34NUu5lvGW_NKMR0L3qOIyOr9Tk1tTUGjTEG949mdCnQ1VELCBVaEP6IN5t-hKXTVwU-FnoOV6UH6rKa-ev_kKJMy6U=w100-e365" width="501"/>
+</picture>
+</div>
+<figcaption class="carousel__slide__figure__figcaption">Vikash - Soni | <b>Ludo King</b>
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="glue-carousel__item glue-grid carousel__slide carousel-tools-and-services" role="tabpanel">
+<div class="glue-grid__col--span-0-sm glue-grid__col--span-1-md glue-grid__col--span-1-lg"></div>
+<div class="glue-grid__col glue-grid__col--span-4 glue-grid__col--span-6-md glue-grid__col--span-6-lg glue-grid__col--span-5-xl carousel__slide__column">
+<h3 class="carousel__slide__column__title" data-analytics-label="">Tools and services</h3>
+<p class="carousel__slide__column__text">
+                We provide <a class="redesign-dark-background-link" data-analytics-label="free training" href="https://play.google.com/academy/?utm_source=google&amp;utm_medium=referral&amp;utm_campaign=console&amp;utm_content=consoleabout" target="_blank">free training</a>, as well as <a class="redesign-dark-background-link" data-analytics-label="tools" href="https://play.google.com/console/about/" target="_blank">tools</a>, services, and insights to help developers manage their app releases and performance.
+              </p>
+</div>
+<div class="glue-grid__col glue-grid__col--span-4 glue-grid__col--span-4-md glue-grid__col--span-4-lg glue-grid__col--span-5-xl glue-grid__col--align-middle carousel__slide__img">
+<figure class="carousel__slide__figure">
+<div class="shape shape--green">
+<picture class="" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/1ZAyEP6yWvhTUJWBckMOHBMylgZ-35k-187Ho0tkeezmi1NniQED5J5ChtzGdJQmOJnOO_aiZPOoYCdaBEj7wrfbMygUh9q4p2qK-B5z5BxP69htBrDe=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/1ZAyEP6yWvhTUJWBckMOHBMylgZ-35k-187Ho0tkeezmi1NniQED5J5ChtzGdJQmOJnOO_aiZPOoYCdaBEj7wrfbMygUh9q4p2qK-B5z5BxP69htBrDe=w600-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/1ZAyEP6yWvhTUJWBckMOHBMylgZ-35k-187Ho0tkeezmi1NniQED5J5ChtzGdJQmOJnOO_aiZPOoYCdaBEj7wrfbMygUh9q4p2qK-B5z5BxP69htBrDe=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/1ZAyEP6yWvhTUJWBckMOHBMylgZ-35k-187Ho0tkeezmi1NniQED5J5ChtzGdJQmOJnOO_aiZPOoYCdaBEj7wrfbMygUh9q4p2qK-B5z5BxP69htBrDe=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/1ZAyEP6yWvhTUJWBckMOHBMylgZ-35k-187Ho0tkeezmi1NniQED5J5ChtzGdJQmOJnOO_aiZPOoYCdaBEj7wrfbMygUh9q4p2qK-B5z5BxP69htBrDe=w304-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/1ZAyEP6yWvhTUJWBckMOHBMylgZ-35k-187Ho0tkeezmi1NniQED5J5ChtzGdJQmOJnOO_aiZPOoYCdaBEj7wrfbMygUh9q4p2qK-B5z5BxP69htBrDe=w304-e365"/>
+<img alt="" class="carousel__slide__figure__image" height="502" src="https://lh3.googleusercontent.com/1ZAyEP6yWvhTUJWBckMOHBMylgZ-35k-187Ho0tkeezmi1NniQED5J5ChtzGdJQmOJnOO_aiZPOoYCdaBEj7wrfbMygUh9q4p2qK-B5z5BxP69htBrDe=w100-e365" width="501"/>
+</picture>
+</div>
+<figcaption class="carousel__slide__figure__figcaption">David | <b>Beelinguapp</b>
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="glue-grid__col--span-1-md glue-grid__col--span-1-lg"></div>
+<div class="glue-carousel__paginate glue-pagination-previous">
+<button class="glue-pagination__button carousel__arrow-button false" data-glue-pagination="carousel-simple" data-glue-pagination-previous="" data-glue-pagination-update-model="false" data-handle-by-js="" title="Previous" type="button">
+<div class="glue-carousel__paginate-wrap">
+<div class="glue-carousel__arrow glue-carousel__arrow--left"></div>
+</div>
+</button>
+</div>
+<div class="glue-carousel__paginate glue-pagination-next">
+<button class="glue-pagination__button carousel__arrow-button false" data-glue-pagination="carousel-simple" data-glue-pagination-next="" data-glue-pagination-update-model="false" data-handle-by-js="" title="Next" type="button">
+<div class="glue-carousel__paginate-wrap">
+<div class="glue-carousel__arrow glue-carousel__arrow--right"></div>
+</div>
+</button>
+</div>
+<div class="glue-grid">
+<div class="glue-grid__col--span-1-md glue-grid__col--span-1-lg"></div>
+<div class="glue-carousel__navigation glue-grid__col--span-10 glue-grid__col--span-10-md glue-grid__col--span-10-lg glue-grid__col--span-10-xl">
+<div class="glue-pagination-page-list" data-glue-pagination="carousel-simple" data-glue-pagination-page-list="" role="tablist">
+<div class="glue-pagination__button-container glue-pagination__page-list-button-container">
+<button class="glue-pagination__button glue-pagination__page-list-button carousel__bullet-button false" data-carousel-item-id="carousel-distribution-and-discovery" data-glue-pagination-page="1" data-handle-by-js="" role="tab" type="button">1</button>
+</div>
+<div class="glue-pagination__button-container glue-pagination__page-list-button-container">
+<button class="glue-pagination__button glue-pagination__page-list-button carousel__bullet-button false" data-carousel-item-id="carousel-monetization-opportunities" data-glue-pagination-page="2" data-handle-by-js="" role="tab" type="button">2</button>
+</div>
+<div class="glue-pagination__button-container glue-pagination__page-list-button-container">
+<button class="glue-pagination__button glue-pagination__page-list-button carousel__bullet-button false" data-carousel-item-id="carousel-tools-and-services" data-glue-pagination-page="3" data-handle-by-js="" role="tab" type="button">3</button>
+</div>
+</div>
+</div>
+<div class="glue-grid__col--span-1-md glue-grid__col--span-1-lg"></div>
+</div>
+</div>
+</section>
+<section class="stats-data">
+<div class="glue-page glue-grid">
+<div class="glue-grid__col glue-grid__col--span-0 glue-grid__col--span-1-lg"></div>
+<div class="glue-grid__col glue-grid__col--span-6 glue-grid__col glue-grid__col--span-6-md glue-grid__col--span-6-lg glue-grid__col--span-5-xl">
+<h2 class="redesign-headline-2 stats-data__title" data-ga4-track-scrolling="" data-heading="A business model that works for everyone" id="stats data">A business model that works for everyone</h2>
+<div class="stats-data__image--shape">
+<picture class="" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/WmRjD2bviMFYKuVIdrFuTSXBVkVwjai3zPrxIqgylEHFxgXSx4IWpdeXWzUj5WvwdV5zla5AmjXGBlFwZdbIgtwvgPJsvuHfuS8K76NTXA-TJWmuwos=w1440-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/WmRjD2bviMFYKuVIdrFuTSXBVkVwjai3zPrxIqgylEHFxgXSx4IWpdeXWzUj5WvwdV5zla5AmjXGBlFwZdbIgtwvgPJsvuHfuS8K76NTXA-TJWmuwos=w1440-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/WmRjD2bviMFYKuVIdrFuTSXBVkVwjai3zPrxIqgylEHFxgXSx4IWpdeXWzUj5WvwdV5zla5AmjXGBlFwZdbIgtwvgPJsvuHfuS8K76NTXA-TJWmuwos=w1024-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/WmRjD2bviMFYKuVIdrFuTSXBVkVwjai3zPrxIqgylEHFxgXSx4IWpdeXWzUj5WvwdV5zla5AmjXGBlFwZdbIgtwvgPJsvuHfuS8K76NTXA-TJWmuwos=w1024-e365"/>
+<source srcset="https://lh3.googleusercontent.com/WmRjD2bviMFYKuVIdrFuTSXBVkVwjai3zPrxIqgylEHFxgXSx4IWpdeXWzUj5WvwdV5zla5AmjXGBlFwZdbIgtwvgPJsvuHfuS8K76NTXA-TJWmuwos=w600-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/WmRjD2bviMFYKuVIdrFuTSXBVkVwjai3zPrxIqgylEHFxgXSx4IWpdeXWzUj5WvwdV5zla5AmjXGBlFwZdbIgtwvgPJsvuHfuS8K76NTXA-TJWmuwos=w600-e365"/>
+<img alt="" class="lazy-img stats-data__image" data-src="https://lh3.googleusercontent.com/WmRjD2bviMFYKuVIdrFuTSXBVkVwjai3zPrxIqgylEHFxgXSx4IWpdeXWzUj5WvwdV5zla5AmjXGBlFwZdbIgtwvgPJsvuHfuS8K76NTXA-TJWmuwos=w100-e365" height="886" loading="lazy" role="presentation" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="912"/>
+</picture>
+</div>
+<figcaption class="stats-data__figcaption">
+          Cem | <b>Duolingo</b>
+</figcaption>
+</div>
+<div class="glue-grid__col glue-grid__col--span-6 glue-grid__col--span-6-md glue-grid__col--span-5-lg glue-grid__col--span-5-xl">
+<p class="stats-data__description">Google Play only charges a service fee to developers who offer a paid app or sell access to in-app digital goods or services.</p>
+<div class="stats-data__markdown">
+<p><strong>Only 3% of developers on Google Play are subject to a service fee.</strong> The remaining 97% can distribute their apps and take advantage of all Google Play has to offer at no charge.</p>
+<p><a class="redesign-link" data-analytics-label="There isn't a single service fee" data-module="Stats data" data-section="A business model that works for everyone" href="https://support.google.com/googleplay/android-developer/answer/11131145?hl=en" rel="noopener" target="_blank">There isn't a single service fee</a> since developers operate in different industries that require different levels of support to build sustainable businesses.</p>
+<h3 id="97%-of-developers-are-not-subject-to-a-service-fee"><span class="stats-data__markdown--blue">97% of developers</span> are not subject to a service fee</h3>
+<p><picture>
+<source srcset="https://kstatic.googleusercontent.com/files/1450e0b5ba124737e3de7ea5c6d0a02cf3edc4d8433fe3e09a6a4fc7e3606634a5bf8efd7aa13e5266c80594b731ffb7c4be9583fcd47545eaa3e4fbdf3bcc27"/>
+<img alt="Graph - 97% of developers are not subject to any fees. 99% of developers quality for a service fee of 15% or less." height="281" src="https://lh3.googleusercontent.com/KGCeTSf9-XYtxfZMqXrVzT6ECwZm8ravuUKBm9PuPcQA9301nx6Hx6-sZUHBdvCOH9YhoBQ4dOaFfn54qC2QU5sbChCz8JkfLrVDrYO9ssNWW_iTwg=s0" width="466"/>
+</picture></p>
+<h3 id="99%-of-developers-qualify-for-a-service-fee-of-15%-or-less"><span class="stats-data__markdown--green">99% of developers</span> qualify for a service fee of 15% or less</h3>
+</div>
+</div>
+</div>
+</section>
+<section class="grid-default glue-page grid-four-column">
+<div class="glue-grid">
+<div class="grid-default__header glue-grid__col glue-grid__col--span-12 non-visible" data-track-visibility="">
+<h2 class="redesign-headline-4 glue-mod-text-left" data-ga4-track-scrolling="" data-heading="Some of the benefits the service fee enables us to provide:" id="four column grid">Some of the benefits the service fee enables us to provide:</h2>
+</div>
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-md glue-grid__col--span-0-lg"></div>
+<div class="grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-5-md glue-grid__col--span-4-lg glue-grid__col--span-3-xl non-visible" data-track-visibility="">
+<picture class="grid-default__img" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/vljb4Hd3rc9Kwd0_jbJ7FNG9U00TaCjjICZDngRWSzS9mjpXewD6APCfQMaq75SOlZioeODj0cdR-dIfjxOSRr9d9SUy9Xvw2HJU-wiEaPhhD-wCbwdq=w400-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/vljb4Hd3rc9Kwd0_jbJ7FNG9U00TaCjjICZDngRWSzS9mjpXewD6APCfQMaq75SOlZioeODj0cdR-dIfjxOSRr9d9SUy9Xvw2HJU-wiEaPhhD-wCbwdq=w400-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/vljb4Hd3rc9Kwd0_jbJ7FNG9U00TaCjjICZDngRWSzS9mjpXewD6APCfQMaq75SOlZioeODj0cdR-dIfjxOSRr9d9SUy9Xvw2HJU-wiEaPhhD-wCbwdq=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/vljb4Hd3rc9Kwd0_jbJ7FNG9U00TaCjjICZDngRWSzS9mjpXewD6APCfQMaq75SOlZioeODj0cdR-dIfjxOSRr9d9SUy9Xvw2HJU-wiEaPhhD-wCbwdq=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/vljb4Hd3rc9Kwd0_jbJ7FNG9U00TaCjjICZDngRWSzS9mjpXewD6APCfQMaq75SOlZioeODj0cdR-dIfjxOSRr9d9SUy9Xvw2HJU-wiEaPhhD-wCbwdq=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/vljb4Hd3rc9Kwd0_jbJ7FNG9U00TaCjjICZDngRWSzS9mjpXewD6APCfQMaq75SOlZioeODj0cdR-dIfjxOSRr9d9SUy9Xvw2HJU-wiEaPhhD-wCbwdq=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/vljb4Hd3rc9Kwd0_jbJ7FNG9U00TaCjjICZDngRWSzS9mjpXewD6APCfQMaq75SOlZioeODj0cdR-dIfjxOSRr9d9SUy9Xvw2HJU-wiEaPhhD-wCbwdq=w100-e365" height="681" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="681"/>
+</picture>
+<h3 class="grid-default__title redesign-headline-5">Security</h3>
+<p class="grid-default__copy redesign-body-text-small">Consumers trust Android and Google Play because of their security: app reviews that help ensure safety and privacy policy compliance, and automated security via Google Play Protect that scans over 100 billion apps per day.</p>
+</div>
+<div class="grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-5-md glue-grid__col--span-4-lg glue-grid__col--span-3-xl non-visible" data-track-visibility="">
+<picture class="grid-default__img" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/xWhaKmHyWp-EPmXJ9WcCo7WK27MtuTgy3wKINgxKrovgm8sAtYg0Cq-4K4LXBK4rg8RqWYMHSp42IL33-UalRO_fHTtEW2vb9pgA5vGuDAuudd1QN0jX=w400-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/xWhaKmHyWp-EPmXJ9WcCo7WK27MtuTgy3wKINgxKrovgm8sAtYg0Cq-4K4LXBK4rg8RqWYMHSp42IL33-UalRO_fHTtEW2vb9pgA5vGuDAuudd1QN0jX=w400-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/xWhaKmHyWp-EPmXJ9WcCo7WK27MtuTgy3wKINgxKrovgm8sAtYg0Cq-4K4LXBK4rg8RqWYMHSp42IL33-UalRO_fHTtEW2vb9pgA5vGuDAuudd1QN0jX=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/xWhaKmHyWp-EPmXJ9WcCo7WK27MtuTgy3wKINgxKrovgm8sAtYg0Cq-4K4LXBK4rg8RqWYMHSp42IL33-UalRO_fHTtEW2vb9pgA5vGuDAuudd1QN0jX=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/xWhaKmHyWp-EPmXJ9WcCo7WK27MtuTgy3wKINgxKrovgm8sAtYg0Cq-4K4LXBK4rg8RqWYMHSp42IL33-UalRO_fHTtEW2vb9pgA5vGuDAuudd1QN0jX=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/xWhaKmHyWp-EPmXJ9WcCo7WK27MtuTgy3wKINgxKrovgm8sAtYg0Cq-4K4LXBK4rg8RqWYMHSp42IL33-UalRO_fHTtEW2vb9pgA5vGuDAuudd1QN0jX=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/xWhaKmHyWp-EPmXJ9WcCo7WK27MtuTgy3wKINgxKrovgm8sAtYg0Cq-4K4LXBK4rg8RqWYMHSp42IL33-UalRO_fHTtEW2vb9pgA5vGuDAuudd1QN0jX=w100-e365" height="678" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="681"/>
+</picture>
+<h3 class="grid-default__title redesign-headline-5">New Android platforms</h3>
+<p class="grid-default__copy redesign-body-text-small">We build platforms for new form factors such as Auto and TV to help developers increase their reach in new ways.</p>
+</div>
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-md glue-grid__col--span-0-lg"></div>
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-md glue-grid__col--span-0-lg"></div>
+<div class="grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-5-md glue-grid__col--span-4-lg glue-grid__col--span-3-xl non-visible" data-track-visibility="">
+<picture class="grid-default__img" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/6byLb3qJHt60E6vDmv7hXNMMqB1qYk4w9w__FdtH2tBV_nsA2W8_gH3kI8b6XkYWB4VN8vZ3hAfhqAmxZE__NJTd4QXKYldOujELAsTru-1dUhoYiX0=w400-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/6byLb3qJHt60E6vDmv7hXNMMqB1qYk4w9w__FdtH2tBV_nsA2W8_gH3kI8b6XkYWB4VN8vZ3hAfhqAmxZE__NJTd4QXKYldOujELAsTru-1dUhoYiX0=w400-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/6byLb3qJHt60E6vDmv7hXNMMqB1qYk4w9w__FdtH2tBV_nsA2W8_gH3kI8b6XkYWB4VN8vZ3hAfhqAmxZE__NJTd4QXKYldOujELAsTru-1dUhoYiX0=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/6byLb3qJHt60E6vDmv7hXNMMqB1qYk4w9w__FdtH2tBV_nsA2W8_gH3kI8b6XkYWB4VN8vZ3hAfhqAmxZE__NJTd4QXKYldOujELAsTru-1dUhoYiX0=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/6byLb3qJHt60E6vDmv7hXNMMqB1qYk4w9w__FdtH2tBV_nsA2W8_gH3kI8b6XkYWB4VN8vZ3hAfhqAmxZE__NJTd4QXKYldOujELAsTru-1dUhoYiX0=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/6byLb3qJHt60E6vDmv7hXNMMqB1qYk4w9w__FdtH2tBV_nsA2W8_gH3kI8b6XkYWB4VN8vZ3hAfhqAmxZE__NJTd4QXKYldOujELAsTru-1dUhoYiX0=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/6byLb3qJHt60E6vDmv7hXNMMqB1qYk4w9w__FdtH2tBV_nsA2W8_gH3kI8b6XkYWB4VN8vZ3hAfhqAmxZE__NJTd4QXKYldOujELAsTru-1dUhoYiX0=w100-e365" height="681" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="681"/>
+</picture>
+<h3 class="grid-default__title redesign-headline-5">Developer tools</h3>
+<p class="grid-default__copy redesign-body-text-small">Developers can run experiments, beta test, optimize store listings, analyze app performance, and more.</p>
+</div>
+<div class="grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-5-md glue-grid__col--span-4-lg glue-grid__col--span-3-xl non-visible" data-track-visibility="">
+<picture class="grid-default__img" role="presentation">
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/XWKaCyfyEED0jt2GcI6VEc-DG2tX5b57BrUJ3NwKtKGVtK4qG1ouk5x0WQ8VuSX015OmNAj6BeVO-7DzS8w2QXLXT9kWUEIDzgn1F0xuWNvvZvVhhrM=w400-rw-e365" type="image/webp"/>
+<source media="(min-width: 1024px)" srcset="https://lh3.googleusercontent.com/XWKaCyfyEED0jt2GcI6VEc-DG2tX5b57BrUJ3NwKtKGVtK4qG1ouk5x0WQ8VuSX015OmNAj6BeVO-7DzS8w2QXLXT9kWUEIDzgn1F0xuWNvvZvVhhrM=w400-e365"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/XWKaCyfyEED0jt2GcI6VEc-DG2tX5b57BrUJ3NwKtKGVtK4qG1ouk5x0WQ8VuSX015OmNAj6BeVO-7DzS8w2QXLXT9kWUEIDzgn1F0xuWNvvZvVhhrM=w600-rw-e365" type="image/webp"/>
+<source media="(min-width: 600px)" srcset="https://lh3.googleusercontent.com/XWKaCyfyEED0jt2GcI6VEc-DG2tX5b57BrUJ3NwKtKGVtK4qG1ouk5x0WQ8VuSX015OmNAj6BeVO-7DzS8w2QXLXT9kWUEIDzgn1F0xuWNvvZvVhhrM=w600-e365"/>
+<source srcset="https://lh3.googleusercontent.com/XWKaCyfyEED0jt2GcI6VEc-DG2tX5b57BrUJ3NwKtKGVtK4qG1ouk5x0WQ8VuSX015OmNAj6BeVO-7DzS8w2QXLXT9kWUEIDzgn1F0xuWNvvZvVhhrM=w400-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/XWKaCyfyEED0jt2GcI6VEc-DG2tX5b57BrUJ3NwKtKGVtK4qG1ouk5x0WQ8VuSX015OmNAj6BeVO-7DzS8w2QXLXT9kWUEIDzgn1F0xuWNvvZvVhhrM=w400-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/XWKaCyfyEED0jt2GcI6VEc-DG2tX5b57BrUJ3NwKtKGVtK4qG1ouk5x0WQ8VuSX015OmNAj6BeVO-7DzS8w2QXLXT9kWUEIDzgn1F0xuWNvvZvVhhrM=w100-e365" height="684" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="678"/>
+</picture>
+<h3 class="grid-default__title redesign-headline-5">Billing system</h3>
+<p class="grid-default__copy redesign-body-text-small">Users enjoy safe and trusted payments, while developers easily process transactions with Google Play gift cards and locally-relevant forms of payment.</p>
+</div>
+</div>
+</section>
+<section class="props-cards" data-ga4-track-scrolling="" id="props cards">
+<div class="glue-page">
+<div class="props-cards__grid">
+<div class="props-cards__card" data-track-visibility="">
+<picture class="props-cards__card__icon props-cards__card__icon--1" role="presentation">
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/p2sOl-30PpYv5Mjbbu1utEvDsKRSabyQ9-HILwMFFccSnJ3A9gP6W_bZFJgwP32_JoxiI8suPgZNClzZ8y_1aNtq_QyEmZxZEf2eFyjjPWTZw66V8gk=w100-e365" height="800" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="800"/>
+</picture>
+<div class="props-cards__card__title">Expansive</div>
+<div class="props-cards__card__body redesign-body-text-small">Connecting developers to a global stage</div>
+</div>
+<div class="props-cards__card" data-track-visibility="">
+<picture class="props-cards__card__icon props-cards__card__icon--2" role="presentation">
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/EJwH7fiAyA5BLwSAl3W8fmrOyHAMDVq3QJ90DgUkhYiVZxL4EYPvKLe-dpvQXeb1ft14W_XmyFgQ6elv3owpoiBZSBFcmoQ2qd5uSZp4gATT3dFsyQ=w100-e365" height="800" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="800"/>
+</picture>
+<div class="props-cards__card__title">Safe</div>
+<div class="props-cards__card__body redesign-body-text-small">Ensuring users’ privacy and security</div>
+</div>
+<div class="props-cards__card" data-track-visibility="">
+<picture class="props-cards__card__icon props-cards__card__icon--3" role="presentation">
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/ozye3whOqmx-kpC4FbxUkySR2EBGx8aIvsiPdnfMODOHCaFWWgS8Ycr669vMGlwxqIZVkbQYrEPalrsWz7Jax64pIfWTxlvwLQpm-961xP0bpkUl0YA=w100-e365" height="800" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="800"/>
+</picture>
+<div class="props-cards__card__title">Open</div>
+<div class="props-cards__card__body redesign-body-text-small">Keeping Android free for everyone</div>
+</div>
+<div class="props-cards__card" data-track-visibility="">
+<picture class="props-cards__card__icon props-cards__card__icon--4" role="presentation">
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/lw5HlZ_rwv5lMNR1mnfgn39DeICt3Gm0wPrN0mi2f9r6VoKea8JPHfrpVH5tnC831iqhGxCjFlp_49E08G6Nnzllco7brWpUZKn82WKu7f_lVmPRzbg=w100-e365" height="800" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="800"/>
+</picture>
+<div class="props-cards__card__title">Supportive</div>
+<div class="props-cards__card__body redesign-body-text-small">Helping developers grow their business</div>
+</div>
+</div>
+</div>
+</section>
+<h2 class="redesign-headline-2 drawer-simple__title glue-mod-text-center" data-ga4-track-scrolling="" data-heading="Learn more" id="FAQs">Learn more</h2>
+<section class="drawer theme-blue drawer-simple glue-page" id="section--safe-equitable-environment" role="tree">
+<div class="glue-grid">
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-xl"></div>
+<div class="glue-expansion-panels glue-grid__col--span-12 glue-grid__col--span-10-xl">
+<div class="glue-expansion-panel" role="treeitem">
+<button aria-expanded="false" class="glue-expansion-panel-toggle" data-analytics="{'eventLabel': 'how does google play create a safe and equitable environment for users and developers?', 'eventAction': 'drawer state click', 'eventCategory': 'component'}" data-glue-expansion-panel-toggle-for="safe-equitable-environment" data-handle-by-js="" tabindex="0">
+<div class="glue-page drawer__panel">
+<h2 class="drawer__headline is-headline-3" data-analytics-label="How does Google Play create a safe and equitable environment for users and developers?">How does Google Play create a safe and equitable environment for users and developers?</h2>
+<svg alt="" aria-hidden="true" class="close glue-icon glue-expansion-panel__button-arrow theme-blue" role="img">
+<use xlink:href="/about/howplayworks/static/assets/glue/icons.svg#close"></use>
+</svg>
+</div>
+</button>
+<div class="glue-expansion-panel-content glue-page" data-glue-expansion-panel-initial="collapsed" id="safe-equitable-environment">
+<div class="glue-tabpanels" data-glue-tabpanels="safe-equitable-environment">
+<div class="glue-grid">
+<div class="glue-grid__col glue-grid__col--span-3-md glue-grid__col--span-3-lg glue-grid__col--span-3-xl glue-grid__col--span-4 side-menu__col">
+<ul class="side-menu glue-tabpanels__page-list">
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'privacy', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How does Google Play create a safe and equitable environment for users and developers?', 'link_text': 'Privacy', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#safe-equitable-environment--privacy">Privacy</a>
+</li>
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'security', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How does Google Play create a safe and equitable environment for users and developers?', 'link_text': 'Security', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#safe-equitable-environment--security">Security</a>
+</li>
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'families', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How does Google Play create a safe and equitable environment for users and developers?', 'link_text': 'Families', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#safe-equitable-environment--families">Families</a>
+</li>
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'policies', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How does Google Play create a safe and equitable environment for users and developers?', 'link_text': 'Policies', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#safe-equitable-environment--policies">Policies</a>
+</li>
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'app approvals', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How does Google Play create a safe and equitable environment for users and developers?', 'link_text': 'App approvals', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#safe-equitable-environment--app-approvals">App approvals</a>
+</li>
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'equal treatment', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How does Google Play create a safe and equitable environment for users and developers?', 'link_text': 'Equal treatment', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#safe-equitable-environment--equal-treatment">Equal treatment</a>
+</li>
+</ul>
+</div>
+<div class="glue-grid__col glue-grid__col--span-7 glue-grid__col--span-9-md glue-grid__col--span-9-lg glue-grid__col--span-7-xl padding-7--bottom drawer-content__col">
+<div class="glue-tabpanels__panel-list">
+<div id="safe-equitable-environment--privacy">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="users-are-in-control-of-their-data-and-permissions.">Users are in control of their data and permissions.</h4>
+<p>We’re dedicated to helping people understand and make informed decisions about the data that apps and games seek to access on their devices. As part of that commitment, we require developers to disclose how they collect and use personal data in their Google Play app listings.</p>
+<p>Developers are only able to ask for sensitive <a data-analytics-label="user data" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/answer/9888076?hl=en" rel="noopener noreferrer" target="_blank">user data</a> - including SMS messages, contact list, device location, and more - when it is appropriate for the primary use of the app. For example, a messaging app might want to access a user’s contact information to be most useful. Developers need to comprehensively disclose the use of these permissions before their app is published to Google Play, and are then reviewed during the app review process. Developers cannot sell personal or sensitive data.</p>
+<p>If the developer has an acceptable use case, they still need to ask users for permission before use. Users are always given the option of declining permission with a single click. For access to <a data-analytics-label="location" data-module="FAQs" data-section="Learn more" href="https://developer.android.com/about/versions/11/privacy/location" rel="noopener noreferrer" target="_blank">location</a>, users have even more control with the ability to limit access to a singular instance, rather than on-going.</p>
+<p>Visit the <a data-analytics-label="Developer Policy Center" data-module="FAQs" data-section="Learn more" href="https://play.google.com/about/developer-content-policy/" rel="noopener noreferrer" target="_blank">Developer Policy Center</a> for more information on these and other policies.</p>
+</div>
+</div>
+</div>
+<div id="safe-equitable-environment--security">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="keeping-android-devices-protected,-automatically.">Keeping Android devices protected, automatically.</h4>
+<p>Powerful security protections are built into every Android device. These aren’t tools that users have to find and enable on their own; they’re automatic and working from day one.</p>
+<p>One example is <a data-analytics-label="Google Play Protect" data-module="FAQs" data-section="Learn more" href="https://www.android.com/play-protect/" rel="noopener noreferrer" target="_blank">Google Play Protect</a>, the built-in malware protection for Android devices with Google Mobile Services enabled. Google Play Protect and our systems scan and analyze billions of apps to keep our ecosystem safe for users and developers. </p>
+<p>Since launching Google Play Protect, we’ve made significant improvements in our ability to detect abuse, from impersonation and fraud to inappropriate content and malware. New machine learning models and techniques enable us to identify and reject 99% of apps with abusive or malicious content before anyone can use them.</p>
+<p>Google Play Protect is only one of many layers of Android security. <a data-analytics-label="Learn more about the many different ways Android keeps users safe" data-module="FAQs" data-section="Learn more" href="https://www.android.com/security-center/" rel="noopener noreferrer" target="_blank">Learn more about the many different ways Android keeps users safe</a>.</p>
+</div>
+</div>
+</div>
+<div id="safe-equitable-environment--families">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="helping-parents-find-enriching-content-for-kids.">Helping parents find enriching content for kids.</h4>
+<p>We are committed to providing a safer and more positive environment for children and families. We help parents find enriching and entertaining content with our Kids tab on Google Play filled with <a data-analytics-label="Teacher Approved" data-module="FAQs" data-section="Learn more" href="https://blog.google/products/google-play/teacher-approved-apps/" rel="noopener noreferrer" target="_blank">Teacher Approved</a> apps and games (currently available in the US and some other countries and launching globally in 2021). We also empower parents to set healthy digital ground rules with <a data-analytics-label="Family Link" data-module="FAQs" data-section="Learn more" href="http://families.google.com/familylink" rel="noopener noreferrer" target="_blank">Family Link</a> parental controls. </p>
+<p>Our <a data-analytics-label="Google Play policies" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/topic/9877766" rel="noopener noreferrer" target="_blank">Google Play policies</a> also provide additional protections for children and families. These policies require that apps and games targeted to children have appropriate content, show ads suitable for children, and meet other requirements including ones related to personally identifiable information.</p>
+</div>
+</div>
+</div>
+<div id="safe-equitable-environment--policies">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="our-policies-protect-both-users-and-developers-from-bad-actors.">Our policies protect both users and developers from bad actors.</h4>
+<p>Our <a data-analytics-label="Google Play developer policies" data-module="FAQs" data-section="Learn more" href="https://play.google.com/about/developer-content-policy/" rel="noopener noreferrer" target="_blank">Google Play developer policies</a> are designed to ensure that we, in partnership with our global developer community, continue to deliver the world’s most innovative and trusted apps to our users. </p>
+<p>Key policies include restricted content, user privacy, malware, and mobile unwanted software. Our policies are generally updated quarterly and all developers are notified via email of any changes. Developers have at least 30 days to make any necessary updates to their apps, and longer if the updates are likely to be significant.</p>
+<p>After the grace period, if a developer violates any of our Google Play policies, their app is removed or suspended from the Google Play store. The developer is notified by email about the specific reasons for this action, provided with instructions on how to republish their app, and provided with instructions on how to <a data-analytics-label="appeal" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/answer/9899142" rel="noopener noreferrer" target="_blank">appeal</a> the action taken against their app.</p>
+<p>Repeated or serious violations of these policies (such as malware, fraud, and apps that may cause user or device harm) or of the <a data-analytics-label="Developer Distribution Agreement" data-module="FAQs" data-section="Learn more" href="https://play.google.com/about/developer-distribution-agreement.html" rel="noopener noreferrer" target="_blank">Developer Distribution Agreement</a> may result in the termination of the developer’s accounts. <a data-analytics-label="View more info on our enforcement process here" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/answer/9899234" rel="noopener noreferrer" target="_blank">View more info on our enforcement process here</a>.</p>
+</div>
+</div>
+</div>
+<div id="safe-equitable-environment--app-approvals">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="every-app-is-thoroughly-reviewed-before-it-goes-live-on-google-play.">Every app is thoroughly reviewed before it goes live on Google Play.</h4>
+<p>With over a thousand human reviewers and automated protections, we have significantly increased our ability to detect and remove malicious apps. Before any app is listed or after its been updated on Google Play, it undergoes an extensive review to check for compliance with privacy policies, sensitive permissions declarations, and more. <a data-analytics-label="Learn more about how developers can prepare their app for approval" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/answer/9859455?hl=en" rel="noopener noreferrer" target="_blank">Learn more about how developers can prepare their app for approval</a>.</p>
+<p>App reviews can take up to 7 days to complete, but are often completed earlier. If the review passes, the app is available to publish. If it doesn’t pass, the developer is contacted with the reason and can resubmit the app at any time with the appropriate updates.</p>
+</div>
+</div>
+</div>
+<div id="safe-equitable-environment--equal-treatment">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="an-equitable-google-play-starts-with-policies-committed-to-fairness-and-extends-through-how-we-promote-apps-to-the-tools-we-make-available-to-developers.">An equitable Google Play starts with policies committed to fairness and extends through how we promote apps to the tools we make available to developers.</h4>
+<p>We believe that all developers should be given the opportunity to succeed and we work to provide a level playing field for everyone, large or small, third party or <a data-analytics-label="first party Google apps" data-module="FAQs" data-section="Learn more" href="https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzU3MDAzMTM2MTg3ODYxNzc3MDUQCBgDEhkKEzU3MDAzMTM2MTg3ODYxNzc3MDUQCBgDGAA%3D:S:ANO1ljLC8CY&amp;gsr=CjuKAzgKGQoTNTcwMDMxMzYxODc4NjE3NzcwNRAIGAMSGQoTNTcwMDMxMzYxODc4NjE3NzcwNRAIGAMYAA%3D%3D:S:ANO1ljKF24s&amp;hl=en_US" rel="noopener noreferrer" target="_blank">first party Google apps</a>.</p>
+<p>Our <a data-analytics-label="developer policies" data-module="FAQs" data-section="Learn more" href="https://play.google.com/about/developer-content-policy/" rel="noopener noreferrer" target="_blank">developer policies</a> apply equally to all apps distributed on Google Play, including Google’s own apps. </p>
+<p>We use the same principles to decide which apps to promote on Google Play, whether they're third-party apps or our own apps. In fact, we regularly promote apps by Google’s competitors in our Editors Choice picks when they provide a great user experience. Similarly, our algorithms rank third-party apps and games using the same criteria as for ranking Google's own apps.</p>
+<p>Google Play Console is a powerful tool for bringing apps to market, and we make it accessible to all along with many other <a data-analytics-label="developer tools and services" data-module="FAQs" data-section="Learn more" href="https://play.google.com/console/about/" rel="noopener noreferrer" target="_blank">developer tools and services</a>. However, there is data or specific features that are only made <a data-analytics-label="available to some developers" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/answer/9959788?hl=en&amp;ref_topic=9958765" rel="noopener noreferrer" target="_blank">available to some developers</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-xl"></div>
+</div></section>
+<section class="drawer theme-red drawer-simple glue-page" id="section--apps-games-organized" role="tree">
+<div class="glue-grid">
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-xl"></div>
+<div class="glue-expansion-panels glue-grid__col--span-12 glue-grid__col--span-10-xl">
+<div class="glue-expansion-panel" role="treeitem">
+<button aria-expanded="false" class="glue-expansion-panel-toggle" data-analytics="{'eventLabel': 'how are apps and games organized on google play?', 'eventAction': 'drawer state click', 'eventCategory': 'component'}" data-glue-expansion-panel-toggle-for="apps-games-organized" data-handle-by-js="" tabindex="0">
+<div class="glue-page drawer__panel">
+<h2 class="drawer__headline is-headline-3" data-analytics-label="How are apps and games organized on Google Play?">How are apps and games organized on Google Play?</h2>
+<svg alt="" aria-hidden="true" class="close glue-icon glue-expansion-panel__button-arrow theme-red" role="img">
+<use xlink:href="/about/howplayworks/static/assets/glue/icons.svg#close"></use>
+</svg>
+</div>
+</button>
+<div class="glue-expansion-panel-content glue-page" data-glue-expansion-panel-initial="collapsed" id="apps-games-organized">
+<div class="glue-tabpanels" data-glue-tabpanels="apps-games-organized">
+<div class="glue-grid">
+<div class="glue-grid__col glue-grid__col--span-3-md glue-grid__col--span-3-lg glue-grid__col--span-3-xl glue-grid__col--span-4 side-menu__col">
+<ul class="side-menu glue-tabpanels__page-list">
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'understanding apps', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How are apps and games organized on Google Play?', 'link_text': 'Understanding apps', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#apps-games-organized--understanding-apps">Understanding apps</a>
+</li>
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'organizing apps', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How are apps and games organized on Google Play?', 'link_text': 'Organizing apps', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#apps-games-organized--organizing-apps">Organizing apps</a>
+</li>
+</ul>
+</div>
+<div class="glue-grid__col glue-grid__col--span-7 glue-grid__col--span-9-md glue-grid__col--span-9-lg glue-grid__col--span-7-xl padding-7--bottom drawer-content__col">
+<div class="glue-tabpanels__panel-list">
+<div id="apps-games-organized--understanding-apps">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="google-play-needs-to-understand-the-content-and-functionality-of-an-app-in-order-to-help-users-discover-the-right-app-at-the-right-time.">Google Play needs to understand the content and functionality of an app in order to help users discover the right app at the right time.</h4>
+<p>When developers submit apps to Google Play, they provide information about the app including the app title, description, category and graphic assets. They also give information about the functionality and content of their app. Google then identifies additional characteristics and analyzes user feedback through ratings and engagement metrics. This information helps us recommend the right apps at the right time, whether people are browsing for something new or searching for a specific title.</p>
+</div>
+</div>
+</div>
+<div id="apps-games-organized--organizing-apps">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="we-take-a-user-centric-approach-to-organizing-and-ranking-apps-in-order-to-create-an-intuitive-and-enjoyable-experience.">We take a user-centric approach to organizing and ranking apps in order to create an intuitive and enjoyable experience.</h4>
+<p>Ensuring a positive experience when navigating Google Play means making it easy to find the apps our users know and love as well as new and undiscovered titles. The Google Play store gives users a variety of ways to discover the right apps, like browsing our most popular apps, searching for a specific title, or viewing recommendations.</p>
+<p>Many ranking factors are involved in determining which apps to display:</p>
+<ul>
+<li><strong>User relevance:</strong> The most relevant apps to a user depends on where they are browsing or the query they use in a search. </li>
+<li><strong>Quality of the app experience:</strong> Apps that have strong technical performance and a good user experience are generally favored over lower quality apps.</li>
+<li><strong>Editorial value:</strong> Google Play provides curated recommendations to help users find content that is noteworthy and interesting.  </li>
+<li><strong>Ads:</strong> Some developers choose to advertise on Google Play similar to other Google properties. These ads are well marked and shown alongside other content. </li>
+<li><strong>User experience:</strong> Google Play endeavors to ensure users have a positive experience in navigating the wide range of available apps.</li>
+</ul>
+<p>For more detailed information on app discovery and ranking, <a data-analytics-label="visit this article" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/answer/9958766?hl=en&amp;ref_topic=9958765" rel="noopener noreferrer" target="_blank">visit this article</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-xl"></div>
+</div></section>
+<section class="drawer theme-yellow drawer-simple glue-page" id="section--help-developers" role="tree">
+<div class="glue-grid">
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-xl"></div>
+<div class="glue-expansion-panels glue-grid__col--span-12 glue-grid__col--span-10-xl">
+<div class="glue-expansion-panel glue-expansion_panel__last-item" role="treeitem">
+<button aria-expanded="false" class="glue-expansion-panel-toggle" data-analytics="{'eventLabel': 'how does google play help developers build, test, distribute and improve their apps?', 'eventAction': 'drawer state click', 'eventCategory': 'component'}" data-glue-expansion-panel-toggle-for="help-developers" data-handle-by-js="" tabindex="0">
+<div class="glue-page drawer__panel">
+<h2 class="drawer__headline is-headline-3" data-analytics-label="How does Google Play help developers build, test, distribute and improve their apps?">How does Google Play help developers build, test, distribute and improve their apps?</h2>
+<svg alt="" aria-hidden="true" class="close glue-icon glue-expansion-panel__button-arrow theme-yellow" role="img">
+<use xlink:href="/about/howplayworks/static/assets/glue/icons.svg#close"></use>
+</svg>
+</div>
+</button>
+<div class="glue-expansion-panel-content glue-page" data-glue-expansion-panel-initial="collapsed" id="help-developers">
+<div class="glue-tabpanels" data-glue-tabpanels="help-developers">
+<div class="glue-grid">
+<div class="glue-grid__col glue-grid__col--span-3-md glue-grid__col--span-3-lg glue-grid__col--span-3-xl glue-grid__col--span-4 side-menu__col">
+<ul class="side-menu glue-tabpanels__page-list">
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'tools and services', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How does Google Play help developers build, test, distribute and improve their apps?', 'link_text': 'Tools and services', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#help-developers--tools-and-services">Tools and services</a>
+</li>
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'data insights', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How does Google Play help developers build, test, distribute and improve their apps?', 'link_text': 'Data insights', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#help-developers--data-insights">Data insights</a>
+</li>
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'monetization', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How does Google Play help developers build, test, distribute and improve their apps?', 'link_text': 'Monetization ', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#help-developers--monetization-">Monetization</a>
+</li>
+<li>
+<a class="side-menu__item is-link" data-analytics="{'eventLabel': 'training', 'eventAction': 'drawer menu item click', 'eventCategory': 'component'}" data-analytics-v4="{'module_name': 'FAQs', 'accordion_header': 'How does Google Play help developers build, test, distribute and improve their apps?', 'link_text': 'Training', 'event': 'accordion_tab_click', 'section_header': 'Learn more'}" href="#help-developers--training">Training</a>
+</li>
+</ul>
+</div>
+<div class="glue-grid__col glue-grid__col--span-7 glue-grid__col--span-9-md glue-grid__col--span-9-lg glue-grid__col--span-7-xl padding-7--bottom drawer-content__col">
+<div class="glue-tabpanels__panel-list">
+<div id="help-developers--tools-and-services">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="google-play’s-tools-and-services-are-designed-to-help-developers-test,-monitor,-and-iterate-their-apps-and-games-to-meet-their-users’-needs.">Google Play’s tools and services are designed to help developers test, monitor, and iterate their apps and games to meet their users’ needs.</h4>
+<p>Helpful testing and interaction tools help developers experiment to create lasting and more meaningful connections with their users. The Google Play platform helps developers react with agility and flexibility when improving the quality of their apps and games. Tools for staged rollouts, beta testing, and early warning alerts empower developers to create better user experiences.</p>
+<p>Learn more about how the <a data-analytics-label="Google Play Console" data-module="FAQs" data-section="Learn more" href="https://play.google.com/console/about/" rel="noopener noreferrer" target="_blank">Google Play Console</a> can help developers:</p>
+</div>
+<section class="grid-drawer margin-5--top">
+<div class="grid-drawer__card margin-6--top">
+<picture class="grid-drawer__img">
+<source srcset="https://lh3.googleusercontent.com/9YeSmA7JfuxourmNhKlSZ6hoUlqX95L59KGEVNtaAD7K1_a3JdKqzHQxFlRw2csFfcwIc1YVutXzRgjF6Qn-4RG7Aqi1UQt6Poz0EQ=w120-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/9YeSmA7JfuxourmNhKlSZ6hoUlqX95L59KGEVNtaAD7K1_a3JdKqzHQxFlRw2csFfcwIc1YVutXzRgjF6Qn-4RG7Aqi1UQt6Poz0EQ=w120-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/9YeSmA7JfuxourmNhKlSZ6hoUlqX95L59KGEVNtaAD7K1_a3JdKqzHQxFlRw2csFfcwIc1YVutXzRgjF6Qn-4RG7Aqi1UQt6Poz0EQ=w100-e365" height="120" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="120"/>
+</picture>
+<h3 class="grid-drawer__title is-body margin-3--top">Build a high quality app or game</h3>
+<a aria-label="Explore how to build a high quality app or game" class="grid-drawer__link" data-analytics-v4="{'link_url': 'https://play.google.com/console/about/build-a-high-quality-app-or-game/', 'link_text': 'Explore', 'section_header': 'Learn more', 'module_name': 'FAQs', 'event': 'cta_click', 'link_type': 'external'}" href="https://play.google.com/console/about/build-a-high-quality-app-or-game/">Explore</a>
+</div>
+<div class="grid-drawer__card margin-6--top">
+<picture class="grid-drawer__img">
+<source srcset="https://lh3.googleusercontent.com/px4ljVMpNHUfZlVCwE0f9IsUaUZz8MxfU3m8s58xf3230iurxa6Axz-olE_gEMODuX_xPNN0TS_dzOnDBt8hRM5TRYqcNyFO0CuT=w120-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/px4ljVMpNHUfZlVCwE0f9IsUaUZz8MxfU3m8s58xf3230iurxa6Axz-olE_gEMODuX_xPNN0TS_dzOnDBt8hRM5TRYqcNyFO0CuT=w120-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/px4ljVMpNHUfZlVCwE0f9IsUaUZz8MxfU3m8s58xf3230iurxa6Axz-olE_gEMODuX_xPNN0TS_dzOnDBt8hRM5TRYqcNyFO0CuT=w100-e365" height="120" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="120"/>
+</picture>
+<h3 class="grid-drawer__title is-body margin-3--top">Release with confidence</h3>
+<a aria-label="Explore how to release with confidence" class="grid-drawer__link" data-analytics-v4="{'link_url': 'https://play.google.com/console/about/release/', 'link_text': 'Explore', 'section_header': 'Learn more', 'module_name': 'FAQs', 'event': 'cta_click', 'link_type': 'external'}" href="https://play.google.com/console/about/release/">Explore</a>
+</div>
+<div class="grid-drawer__card margin-6--top">
+<picture class="grid-drawer__img">
+<source srcset="https://lh3.googleusercontent.com/ozfPAOS3b5sCeJQYQg6urHocvRAEr5earMfOWUshmBY2MGjkuUlWpSd8lAxnSeKaNWEh-LkvdAUXL2o9JoUjazskfioItKzikm6c_QE=w120-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/ozfPAOS3b5sCeJQYQg6urHocvRAEr5earMfOWUshmBY2MGjkuUlWpSd8lAxnSeKaNWEh-LkvdAUXL2o9JoUjazskfioItKzikm6c_QE=w120-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/ozfPAOS3b5sCeJQYQg6urHocvRAEr5earMfOWUshmBY2MGjkuUlWpSd8lAxnSeKaNWEh-LkvdAUXL2o9JoUjazskfioItKzikm6c_QE=w100-e365" height="120" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="120"/>
+</picture>
+<h3 class="grid-drawer__title is-body margin-3--top">Grow your audience</h3>
+<a aria-label="Explore how to grow your audience" class="grid-drawer__link" data-analytics-v4="{'link_url': 'https://play.google.com/console/about/grow-your-audience/', 'link_text': 'Explore', 'section_header': 'Learn more', 'module_name': 'FAQs', 'event': 'cta_click', 'link_type': 'external'}" href="https://play.google.com/console/about/grow-your-audience/">Explore</a>
+</div>
+<div class="grid-drawer__card margin-6--top">
+<picture class="grid-drawer__img">
+<source srcset="https://lh3.googleusercontent.com/1mDKLFwh0s9eqofenTdJGOA8Z-iX9oKg_d0L_xQG-CEBDvy7_qumNVanU98FAnxbCeJgBme92gMOkA2DX2VKNKv3DerkNhD5BqA6Xg=w120-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/1mDKLFwh0s9eqofenTdJGOA8Z-iX9oKg_d0L_xQG-CEBDvy7_qumNVanU98FAnxbCeJgBme92gMOkA2DX2VKNKv3DerkNhD5BqA6Xg=w120-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/1mDKLFwh0s9eqofenTdJGOA8Z-iX9oKg_d0L_xQG-CEBDvy7_qumNVanU98FAnxbCeJgBme92gMOkA2DX2VKNKv3DerkNhD5BqA6Xg=w100-e365" height="120" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="120"/>
+</picture>
+<h3 class="grid-drawer__title is-body margin-3--top">Monetize with ease</h3>
+<a aria-label="Explore how to monetize with ease" class="grid-drawer__link" data-analytics-v4="{'link_url': 'https://play.google.com/console/about/monetize/', 'link_text': 'Explore', 'section_header': 'Learn more', 'module_name': 'FAQs', 'event': 'cta_click', 'link_type': 'external'}" href="https://play.google.com/console/about/monetize/">Explore</a>
+</div>
+<div class="grid-drawer__card margin-6--top">
+<picture class="grid-drawer__img">
+<source srcset="https://lh3.googleusercontent.com/KAYhDmQhwzwusyqZXlNk5DTuiIRQIRGA681vAh5UCS2KG2xig59x1QmkPzsnh-Kif5JTNffhbp3fVV7K_rDjc0BigwnqZyx2QWCA=w120-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/KAYhDmQhwzwusyqZXlNk5DTuiIRQIRGA681vAh5UCS2KG2xig59x1QmkPzsnh-Kif5JTNffhbp3fVV7K_rDjc0BigwnqZyx2QWCA=w120-e365"/>
+<img alt="" class="lazy-img" data-src="https://lh3.googleusercontent.com/KAYhDmQhwzwusyqZXlNk5DTuiIRQIRGA681vAh5UCS2KG2xig59x1QmkPzsnh-Kif5JTNffhbp3fVV7K_rDjc0BigwnqZyx2QWCA=w100-e365" height="120" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="120"/>
+</picture>
+<h3 class="grid-drawer__title is-body margin-3--top">Engage and retain users</h3>
+<a aria-label="Explore how to engage and retain users" class="grid-drawer__link" data-analytics-v4="{'link_url': 'https://play.google.com/console/about/engage-and-retain-your-users/', 'link_text': 'Explore', 'section_header': 'Learn more', 'module_name': 'FAQs', 'event': 'cta_click', 'link_type': 'external'}" href="https://play.google.com/console/about/engage-and-retain-your-users/">Explore</a>
+</div>
+</section>
+</div>
+</div>
+<div id="help-developers--data-insights">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="google-play-knows-that-actionable-data-is-critical-for-developers-to-improve-their-user-experience-and-grow-their-businesses.">Google Play knows that actionable data is critical for developers to improve their user experience and grow their businesses.</h4>
+<p>The data helps developers understand the lifecycle of their app: from how it is discovered in the Google Play store, to how users engage with it, and what users are willing to pay for it. Developers also have access to ratings and reviews to understand user feedback and respond to concerns.</p>
+<p>Developers also have access to aggregated data to benchmark their performance across the ecosystem. They can access data through the <a data-analytics-label="Play Console, in downloadable formats, and APIs" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/answer/6135870" rel="noopener noreferrer" target="_blank">Play Console, in downloadable formats, and APIs</a>, and continually invest to make metrics and visualizations more helpful.</p>
+<p>Google Play ensures that the data collected and shared with developers about their apps protects the privacy and security of our users via our <a data-analytics-label="privacy policy" data-module="FAQs" data-section="Learn more" href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">privacy policy</a>.</p>
+<p>For more information on the <a data-analytics-label="statistics and insights" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/topic/7071935" rel="noopener noreferrer" target="_blank">statistics and insights</a> available to developers visit the <a data-analytics-label="Play Console Help Center" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/topic=3450769" rel="noopener noreferrer" target="_blank">Play Console Help Center</a> and <a data-analytics-label="play.google.com/console/about/" data-module="FAQs" data-section="Learn more" href="https://play.google.com/console/about/" rel="noopener noreferrer" target="_blank">play.google.com/console/about/</a>. For more information on data access <a data-analytics-label="visit this page" data-module="FAQs" data-section="Learn more" href="https://support.google.com/googleplay/android-developer/answer/9959470?hl=en&amp;ref_topic=9958765" rel="noopener noreferrer" target="_blank">visit this page</a>.</p>
+</div>
+</div>
+</div>
+<div id="help-developers--monetization-">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="from-paid-apps-to-in-app-purchases,-google-play’s-global-commerce-platform-makes-it-easy-for-developers-to-sell-digital-goods-and-content.">From paid apps to in-app purchases, Google Play’s global commerce platform makes it easy for developers to sell digital goods and content.</h4>
+<p>In addition to helping developers distribute their apps to billions of Android users, Google Play helps them create revenue streams by launching paid apps, offering digital content, or subscriptions.</p>
+<p>Google Play’s global commerce platform allows developers to quickly and safely collect payments from users in over 170 countries. Depending on the market, Google Play provides people with a variety of payment methods, which may include gift cards, direct carrier billing, credit cards, and digital services like PayPal. With a safe and reliable payment system in place, developers can focus on building user experiences people will love.</p>
+<p><a data-analytics-label="Learn more about monetization" data-module="FAQs" data-section="Learn more" href="https://play.google.com/console/about/monetize/" rel="noopener noreferrer" target="_blank">Learn more about monetization</a> options and best practices for developers or <a data-analytics-label="get started with Google Play's billing system" data-module="FAQs" data-section="Learn more" href="https://developer.android.com/google/play/billing" rel="noopener noreferrer" target="_blank">get started with Google Play's billing system</a>.</p>
+</div>
+</div>
+</div>
+<div id="help-developers--training">
+<div class="content-drawer glue-tabpanels__panel-content">
+<div class="content-drawer__markdown">
+<h4 id="the-google-play-academy-is-free-of-charge-to-developers,-business-people,-and-marketers-of-google-play-apps-and-games.">The Google Play Academy is free-of-charge to developers, business people, and marketers of Google Play apps and games.</h4>
+<p>Google Play shares best practices to build a successful app or game business and keep developers updated on changes in our tools. The <a data-analytics-label="Google Play Academy" data-module="FAQs" data-section="Learn more" href="https://g.co/playacademy/consoleabout" rel="noopener noreferrer" target="_blank">Google Play Academy</a> is a free-of-charge e-learning platform for developers, business people, and marketers of Google Play apps and games. The courses are offered in 13 languages to anyone with a Google Account.</p>
+<p>Over 100 courses are currently offered and are updated regularly with new information. Topics include:</p>
+<ul>
+<li>How to use Google Play Console features and distribute an app or game</li>
+<li>Best practices for achieving success in an app or game business</li>
+<li>Guidance for staying on the right side of Google Play policies</li>
+</ul>
+<p>Developers can also follow us via the <a data-analytics-label="Android developer blog" data-module="FAQs" data-section="Learn more" href="https://android-developers.googleblog.com/" rel="noopener noreferrer" target="_blank">Android developer blog</a>, <a data-analytics-label="Google Play Medium" data-module="FAQs" data-section="Learn more" href="https://medium.com/googleplaydev" rel="noopener noreferrer" target="_blank">Google Play Medium</a>, <a data-analytics-label="Android Developer YouTube" data-module="FAQs" data-section="Learn more" href="https://www.youtube.com/user/androiddevelopers/" rel="noopener noreferrer" target="_blank">Android Developer YouTube</a>, and <a data-analytics-label="Twitter" data-module="FAQs" data-section="Learn more" href="https://twitter.com/GooglePlayDev?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" rel="noopener noreferrer" target="_blank">Twitter</a> for news and updates.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="glue-grid__col--span-0 glue-grid__col--span-1-xl"></div>
+</div></section>
+<section class="grid-default glue-page grid-redesign">
+<div class="glue-grid">
+<div class="grid-default__header glue-grid__col glue-grid__col--span-12">
+<h2 class="grid-redesign__title glue-mod-text-center" data-ga4-track-scrolling="" data-heading="Latest news" id="grid">Latest news</h2>
+</div>
+<div class="grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img">
+<source srcset="https://lh3.googleusercontent.com/roplMgqK6wLfmIdiaADbo2HmwDxVOl4nXvFNaR55PfC1jsomrieoyLzbSy64kzk9NrlNPbYimXEVcKPQ53ASWIqJkAoPZQG0aW7P4zSx3roESO6dmnvA=w800-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/roplMgqK6wLfmIdiaADbo2HmwDxVOl4nXvFNaR55PfC1jsomrieoyLzbSy64kzk9NrlNPbYimXEVcKPQ53ASWIqJkAoPZQG0aW7P4zSx3roESO6dmnvA=w800-e365"/>
+<img alt="Google Economic Impact" class="lazy-img" data-src="https://lh3.googleusercontent.com/roplMgqK6wLfmIdiaADbo2HmwDxVOl4nXvFNaR55PfC1jsomrieoyLzbSy64kzk9NrlNPbYimXEVcKPQ53ASWIqJkAoPZQG0aW7P4zSx3roESO6dmnvA=w100-e365" height="300" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="400"/>
+</picture>
+<p class="grid-default__eyebrow redesign-eyebrow">Apr 2022</p>
+<h3 class="grid-default__title is-headline-5">Google Economic Impact Report 2021</h3>
+<p class="grid-default__copy is-body-small">The Android app economy, including Google Play, helped create 2 million American jobs—from software engineers and mobile app developers, to the marketing and HR teams that support them. Read more about how Google tools have helped the American economy in the 2021 Google Economic Impact report.</p>
+<a aria-label="Learn more" class="redesign-link grid-default__cta" data-analytics="{'eventLabel': 'learn more - https://economicimpact google com/resources/#google play', 'eventAction': 'cta click', 'eventCategory': 'global'}" data-analytics-v4="{'link_url': 'https://economicimpact.google.com/resources/#google_play', 'link_text': 'Learn more', 'section_header': 'Latest news', 'module_name': 'Grid', 'event': 'cta_click', 'link_type': 'external'}" href="https://economicimpact.google.com/resources/#google_play" rel="noopener" target="_blank">
+            Learn more
+              <svg alt="" aria-hidden="true" class="arrow-forward glue-icon grid-default__cta-icon glue-icon--24px" role="img">
+<use xlink:href="/about/howplayworks/static/assets/glue/icons.svg#arrow-forward"></use>
+</svg>
+</a>
+</div>
+<div class="grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img">
+<source srcset="https://lh3.googleusercontent.com/Yg024ZfzUhIbY3dhfkliYJKyMhJEA6o_DQKujBwDRJ1eW2R6ftOqtjfvBvdCqL1CWxKH3g2nBx0EngE7ZwXZqPG3AN4Ilrpr2MqwiUUoqoyu6Yoo7UEI=w800-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/Yg024ZfzUhIbY3dhfkliYJKyMhJEA6o_DQKujBwDRJ1eW2R6ftOqtjfvBvdCqL1CWxKH3g2nBx0EngE7ZwXZqPG3AN4Ilrpr2MqwiUUoqoyu6Yoo7UEI=w800-e365"/>
+<img alt="Google Play logo" class="lazy-img" data-src="https://lh3.googleusercontent.com/Yg024ZfzUhIbY3dhfkliYJKyMhJEA6o_DQKujBwDRJ1eW2R6ftOqtjfvBvdCqL1CWxKH3g2nBx0EngE7ZwXZqPG3AN4Ilrpr2MqwiUUoqoyu6Yoo7UEI=w100-e365" height="300" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="400"/>
+</picture>
+<p class="grid-default__eyebrow redesign-eyebrow">Dec 2021</p>
+<h3 class="grid-default__title is-headline-5">How to sustain a safe, thriving app and game ecosystem</h3>
+<p class="grid-default__copy is-body-small">Apps and games platforms need to balance consumers’ expectations of choice and safety, developers’ desire to innovate and grow, and their own need for a viable business model.</p>
+<a aria-label="Learn more" class="redesign-link grid-default__cta" data-analytics="{'eventLabel': 'learn more - https://blog google/outreach-initiatives/public-policy/how-sustain-safe-thriving-app-and-game-ecosystem/', 'eventAction': 'cta click', 'eventCategory': 'global'}" data-analytics-v4="{'link_url': 'https://blog.google/outreach-initiatives/public-policy/how-sustain-safe-thriving-app-and-game-ecosystem/', 'link_text': 'Learn more', 'section_header': 'Latest news', 'module_name': 'Grid', 'event': 'cta_click', 'link_type': 'external'}" href="https://blog.google/outreach-initiatives/public-policy/how-sustain-safe-thriving-app-and-game-ecosystem/" rel="noopener" target="_blank">
+            Learn more
+              <svg alt="" aria-hidden="true" class="arrow-forward glue-icon grid-default__cta-icon glue-icon--24px" role="img">
+<use xlink:href="/about/howplayworks/static/assets/glue/icons.svg#arrow-forward"></use>
+</svg>
+</a>
+</div>
+<div class="grid-default__card glue-grid__col glue-grid__col--span-4 glue-grid__col--span-12-md glue-grid__col--span-6-lg glue-grid__col--span-4-xl">
+<picture class="grid-default__img">
+<source srcset="https://lh3.googleusercontent.com/wSWpASZD2uFJJHSA4roRFTi1BMB-or-YLbOlJJW5aJpzP6GvIcGHfbKtRSAQyuMpYE4uMgOdHAtBRzQv1QF-DXgRZEIwNHhlXGMIcq4IhcN9M5xHoA=w800-rw-e365" type="image/webp"/>
+<source srcset="https://lh3.googleusercontent.com/wSWpASZD2uFJJHSA4roRFTi1BMB-or-YLbOlJJW5aJpzP6GvIcGHfbKtRSAQyuMpYE4uMgOdHAtBRzQv1QF-DXgRZEIwNHhlXGMIcq4IhcN9M5xHoA=w800-e365"/>
+<img alt="Notes From Google Play" class="lazy-img" data-src="https://lh3.googleusercontent.com/wSWpASZD2uFJJHSA4roRFTi1BMB-or-YLbOlJJW5aJpzP6GvIcGHfbKtRSAQyuMpYE4uMgOdHAtBRzQv1QF-DXgRZEIwNHhlXGMIcq4IhcN9M5xHoA=w100-e365" height="300" loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="400"/>
+</picture>
+<p class="grid-default__eyebrow redesign-eyebrow">Dec 2021</p>
+<h3 class="grid-default__title is-headline-5">Launching Notes from Google Play | A year of evolution</h3>
+<p class="grid-default__copy is-body-small">We’re kicking off Notes from Google Play, a new series where several times a year we celebrate your creativity and impact, and share key insights and best practices, to inspire you to be bolder, go further, and build even more innovative apps and games.</p>
+<a aria-label="Learn more" class="redesign-link grid-default__cta" data-analytics="{'eventLabel': 'learn more - https://android-developers googleblog com/2021/12/launching-notes-from-google-play html', 'eventAction': 'cta click', 'eventCategory': 'global'}" data-analytics-v4="{'link_url': 'https://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html', 'link_text': 'Learn more', 'section_header': 'Latest news', 'module_name': 'Grid', 'event': 'cta_click', 'link_type': 'external'}" href="https://android-developers.googleblog.com/2021/12/launching-notes-from-google-play.html" rel="noopener" target="_blank">
+            Learn more
+              <svg alt="" aria-hidden="true" class="arrow-forward glue-icon grid-default__cta-icon glue-icon--24px" role="img">
+<use xlink:href="/about/howplayworks/static/assets/glue/icons.svg#arrow-forward"></use>
+</svg>
+</a>
+</div>
+</div>
+</section>
+</main>
+<footer class="glue-footer glue-footer__redesign">
+<section class="glue-footer__global">
+<h3 class="glue-footer__footnotes-title">Footnotes</h3>
+<ul class="glue-footer__footnotes-list">
+<li class="glue-footer__footnotes-list-item">1. As of June 2021</li>
+<li class="glue-footer__footnotes-list-item">2. As of May 2021</li>
+<li class="glue-footer__footnotes-list-item">3. As of July 2021</li>
+</ul>
+<hr class="glue-footer__separate-line"/>
+<div class="glue-footer__links-wrapper">
+<p class="glue-mod-visually-hidden">Footer links</p>
+<div class="glue-footer__logo">
+<a class="glue-footer__logo__link" data-analytics="{'eventLabel': 'google logo - https://www google com', 'eventAction': 'footer global link click', 'eventCategory': 'global'}" data-analytics-v4="{'link_url': 'https://www.google.com', 'link_text': 'Google Logo', 'section_header': 'Footer', 'module_name': 'Footer', 'event': 'nav_click', 'link_type': 'external'}" href="https://www.google.com" rel="noopener" target="_blank" title="Google">
+<svg alt="" aria-hidden="true" class="google-solid-logo glue-footer__logo-img" role="img">
+<use xlink:href="/about/howplayworks/static/assets/glue/icons.svg#google-solid-logo"></use>
+</svg>
+</a>
+</div>
+<ul class="glue-footer__global-links glue-no-bullet">
+<li class="glue-footer__global-links-list-item">
+<a class="glue-footer__link" data-analytics="{'eventLabel': 'policy center - https://play google com/about/developer-content-policy/', 'eventAction': 'footer global link click', 'eventCategory': 'global'}" data-analytics-v4="{'link_url': 'https://play.google.com/about/developer-content-policy/', 'link_text': 'Policy Center', 'section_header': 'Footer', 'module_name': 'Footer', 'event': 'nav_click', 'link_type': 'external'}" href="https://play.google.com/about/developer-content-policy/" target="_blank">Policy Center</a>
+</li>
+<li class="glue-footer__global-links-list-item">
+<a class="glue-footer__link" data-analytics="{'eventLabel': 'play console - https://play google com/console/about/', 'eventAction': 'footer global link click', 'eventCategory': 'global'}" data-analytics-v4="{'link_url': 'https://play.google.com/console/about/', 'link_text': 'Play Console', 'section_header': 'Footer', 'module_name': 'Footer', 'event': 'nav_click', 'link_type': 'external'}" href="https://play.google.com/console/about/" target="_blank">Play Console</a>
+</li>
+<li class="glue-footer__global-links-list-item">
+<a class="glue-footer__link" data-analytics="{'eventLabel': 'privacy - https://policies google com/privacy', 'eventAction': 'footer global link click', 'eventCategory': 'global'}" data-analytics-v4="{'link_url': 'https://policies.google.com/privacy', 'link_text': 'Privacy', 'section_header': 'Footer', 'module_name': 'Footer', 'event': 'nav_click', 'link_type': 'external'}" href="https://policies.google.com/privacy" target="_blank">Privacy</a>
+</li>
+<li class="glue-footer__global-links-list-item">
+<a class="glue-footer__link" data-analytics="{'eventLabel': 'terms - https://policies google com/terms', 'eventAction': 'footer global link click', 'eventCategory': 'global'}" data-analytics-v4="{'link_url': 'https://policies.google.com/terms', 'link_text': 'Terms', 'section_header': 'Footer', 'module_name': 'Footer', 'event': 'nav_click', 'link_type': 'external'}" href="https://policies.google.com/terms" target="_blank">Terms</a>
+</li>
+</ul>
+<ul class="glue-footer__global-links glue-footer__global-links--extra glue-no-bullet">
+<li class="glue-footer__global-links-list-item glue-footer__global-links-list-item--extra">
+<a class="glue-footer__link" data-analytics="{'eventLabel': 'help - https://support google com/?hl=en', 'eventAction': 'footer support click', 'eventCategory': 'global'}" data-analytics-v4="{'link_url': 'https://support.google.com/?hl=en', 'link_text': 'Help', 'section_header': 'Footer', 'module_name': 'Footer', 'event': 'nav_click', 'link_type': 'external'}" href="https://support.google.com/?hl=en" rel="noopener" target="_blank">
+<svg alt="" aria-hidden="true" class="help glue-icon glue-icon--footer glue-icon--24px" role="img">
+<use xlink:href="/about/howplayworks/static/assets/glue/icons.svg#help"></use>
+</svg>
+
+
+            Help
+          </a>
+</li>
+<li class="glue-footer__global-links-list-item glue-footer__global-links-list-item--extra">
+<label class="glue-mod-visually-hidden" for="lang-selector">Change language</label>
+<select class="glue-form__dropdown glue-footer__lang-dropdown" id="lang-selector" name="lang-selector">
+<option value="/intl/en_au/about/howplayworks/">English - Australia</option>
+<option value="/intl/fr_be/about/howplayworks/">français - Belgique</option>
+<option value="/intl/nl_be/about/howplayworks/">Nederlands - België</option>
+<option value="/intl/pt_br/about/howplayworks/">português - Brasil</option>
+<option value="/intl/de_de/about/howplayworks/">Deutsch - Deutschland</option>
+<option value="/intl/es_es/about/howplayworks/">español - España</option>
+<option value="/intl/fr_fr/about/howplayworks/">français - France</option>
+<option value="/intl/ALL_in/about/howplayworks/">English - India</option>
+<option value="/intl/id_id/about/howplayworks/">Indonesia - Indonesia</option>
+<option value="/intl/es_419/about/howplayworks/">español - Latinoamérica</option>
+<option value="/intl/pt_pt/about/howplayworks/">português - Portugal</option>
+<option value="/intl/ALL_uk/about/howplayworks/">English - United Kingdom</option>
+<option selected="" value="/about/howplayworks/">English - United States</option>
+<option value="/intl/vi_vn/about/howplayworks/">Tiếng Việt - Việt Nam</option>
+<option value="/intl/hi_in/about/howplayworks/">हिन्दी - भारत</option>
+<option value="/intl/zh_cn/about/howplayworks/">中文 - 中国</option>
+<option value="/intl/zh_tw/about/howplayworks/">中文 - 台湾</option>
+<option value="/intl/ja_jp/about/howplayworks/">日本語 - 日本</option>
+<option value="/intl/ko_kr/about/howplayworks/">한국어 - 대한민국</option>
+</select>
+</li>
+</ul>
+</div>
+</section>
+</footer>
+<svg style="display: none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<symbol fill="none" id="icon-next" viewbox="0 0 17 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M17 10L.5 19.526V.474L17 10z" fill="#3C4043"></path>
+</symbol>
+</svg>
+<!--googleoff: all-->
+<div class="svg-assets" style="display: none;"></div>
+<!--googleon: all-->
+<script data-autoload-cookie-consent-bar="true" data-autoload-cookie-consent-bar-intl-code="" src="https://www.gstatic.com/brandstudio/kato/cookie_choice_component/cookie_consent_bar.v3.js" nonce="vxgW9I7KSG12k5q_YqJX1g"></script>
+<script defer="" src="https://www.gstatic.com/external_hosted/hammerjs/v2_0_2/hammer.min.js" nonce="vxgW9I7KSG12k5q_YqJX1g"></script>
+<script defer="" src="/about/howplayworks/static/main.min.js" nonce="vxgW9I7KSG12k5q_YqJX1g"></script>
+</body>
+</html>
